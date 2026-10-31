@@ -1,0 +1,5228 @@
+{
+  "kpis_globales": {
+    "total_registros_procesados": 54872712,
+    "total_archivos_csv": 194,
+    "elecciones_analizadas": [
+      2009,
+      2012,
+      2015,
+      2018,
+      2021,
+      2024
+    ],
+    "ln_2024": 98330348,
+    "sv_2024": 54899228,
+    "tasa_2024": 55.83,
+    "tasa_media_presidencial": 58.63,
+    "tasa_media_intermedia": 45.6,
+    "no_binario_2024": {
+      "ln": 105,
+      "sv": 79,
+      "tasa": 75.24
+    },
+    "voto_anticipado_2024": {
+      "total": 3449,
+      "mujeres": 2143,
+      "hombres": 1306,
+      "pct_mujeres": 62.1,
+      "top_estados": {
+        "CIUDAD DE MEXICO": 461,
+        "VERACRUZ DE IGNACIO DE LA LLAVE": 221,
+        "JALISCO": 216,
+        "MEXICO": 196,
+        "AGUASCALIENTES": 169
+      }
+    },
+    "prision_preventiva_2024": {
+      "total": 26563,
+      "mujeres": 2331,
+      "hombres": 24232,
+      "pct_hombres": 91.2,
+      "top_estados": {
+        "MEXICO": 4719,
+        "JALISCO": 2938,
+        "NUEVO LEON": 1875,
+        "CIUDAD DE MEXICO": 1799,
+        "PUEBLA": 1560
+      }
+    }
+  },
+  "nacional_anual": [
+    {
+      "AELEC": 2009,
+      "LN": 77481831,
+      "SV": 33316974,
+      "NV": 42298963,
+      "NS": 1865894,
+      "TASA_SV": 43.0,
+      "TASA_NV": 54.59,
+      "TASA_NS": 2.41,
+      "TIPO": "Intermedia"
+    },
+    {
+      "AELEC": 2012,
+      "LN": 76490962,
+      "SV": 47383154,
+      "NV": 28939159,
+      "NS": 168649,
+      "TASA_SV": 61.95,
+      "TASA_NV": 37.83,
+      "TASA_NS": 0.22,
+      "TIPO": "Presidencial"
+    },
+    {
+      "AELEC": 2015,
+      "LN": 83563462,
+      "SV": 36926612,
+      "NV": 41517874,
+      "NS": 5118976,
+      "TASA_SV": 44.19,
+      "TASA_NV": 49.68,
+      "TASA_NS": 6.13,
+      "TIPO": "Intermedia"
+    },
+    {
+      "AELEC": 2018,
+      "LN": 89123997,
+      "SV": 51784399,
+      "NV": 31249856,
+      "NS": 6089742,
+      "TASA_SV": 58.1,
+      "TASA_NV": 35.06,
+      "TASA_NS": 6.83,
+      "TIPO": "Presidencial"
+    },
+    {
+      "AELEC": 2021,
+      "LN": 93532133,
+      "SV": 46389189,
+      "NV": 43099624,
+      "NS": 4043320,
+      "TASA_SV": 49.6,
+      "TASA_NV": 46.08,
+      "TASA_NS": 4.32,
+      "TIPO": "Intermedia"
+    },
+    {
+      "AELEC": 2024,
+      "LN": 98330348,
+      "SV": 54899228,
+      "NV": 37105466,
+      "NS": 6325654,
+      "TASA_SV": 55.83,
+      "TASA_NV": 37.74,
+      "TASA_NS": 6.43,
+      "TIPO": "Presidencial"
+    }
+  ],
+  "perfiles": [
+    {
+      "id": "P1",
+      "order": 1,
+      "name": "Guardianes Cívicos Urbanos",
+      "subtitle": "Adultos mayores urbanos con lealtad democrática inquebrantable y liderazgo femenino",
+      "color": "#5B2C6F",
+      "badge": "Alta Participación Constante",
+      "icon": "🏛️",
+      "narrative": "Representan el pilar más sólido de la democracia mexicana en zonas urbanas (21.82% de la Lista Nominal). Con una edad media de 62.4 años y mayoría femenina (63.1%), registran la tasa de participación más alta en 2024 (67.96%) y una tendencia histórica creciente (+3.67 pp). Votan tanto en elecciones presidenciales como intermedias por sentido de deber cívico.",
+      "ine_strategy": "Embajadores Intergeneracionales y Accesibilidad Universal",
+      "ine_actions": [
+        "Programa 'Vota con tu Abuela/o': incentivar que lleven a jóvenes de su hogar (18-29 años) a la casilla.",
+        "Garantizar accesibilidad física total, plantillas braille, fila preferente y capacitación empática a funcionarios de casilla.",
+        "Convocarles como observadores electorales, capacitadores comunitarios y promotores de memoria democrática."
+      ],
+      "channels": "Televisión abierta, radio local, perifoneo barrial, centros comunitarios, clínicas de salud e IMSS/ISSSTE.",
+      "cluster_raw": 2,
+      "ln_2024": 21456948,
+      "sv_2024": 14581323,
+      "nv_2024": 5699043,
+      "pct_padron": 21.82,
+      "tasa_2024": 67.96,
+      "tasa_pres": 68.44,
+      "tasa_inter": 54.56,
+      "brecha_pres_inter": 13.88,
+      "edad_media": 62.4,
+      "pct_mujer": 63.1,
+      "pct_hombre": 36.9,
+      "pct_urbano": 95.6,
+      "pct_rural": 0.0,
+      "pct_mixto": 4.4,
+      "escolaridad_est": 9.6,
+      "tendencia_lp": 3.67,
+      "evolucion_anual": {
+        "2009": 50.53,
+        "2012": 70.56,
+        "2015": 52.67,
+        "2018": 66.8,
+        "2021": 60.48,
+        "2024": 67.96
+      },
+      "regiones": {
+        "Centro": 47.8,
+        "Centro-Occidente": 14.3,
+        "Noreste": 9.2,
+        "Noroeste": 9.2,
+        "Sur-Sureste": 19.6
+      },
+      "grupos_edad": {
+        "30-34": 0.3,
+        "35-39": 0.3,
+        "40-49": 9.9,
+        "50-59": 32.0,
+        "60-69": 31.1,
+        "70+": 26.3
+      },
+      "tipo_seccion": {
+        "M": 4.4,
+        "U": 95.6
+      }
+    },
+    {
+      "id": "P2",
+      "order": 2,
+      "name": "Comunidad Rural Comprometida",
+      "subtitle": "Ciudadanía de secciones rurales y mixtas con fuerte cohesión comunitaria",
+      "color": "#1E8449",
+      "badge": "Alta Participación Comunitaria",
+      "icon": "🌾",
+      "narrative": "Agrupa al 14.67% del padrón nacional en secciones rurales (77.6%) y mixtas, con edad media de 53.7 años, alta presencia femenina (62.1%) y escolaridad básica (6.7 años promedio). Pese a barreras geográficas y menor escolaridad, mantienen la participación más alta en elecciones intermedias (57.37%) y un sólido 63.41% en presidenciales, impulsados por el tejido comunitario.",
+      "ine_strategy": "Educación Cívica Comunitaria, Lenguas Indígenas yVoto Libre",
+      "ine_actions": [
+        "Campañas en lenguas indígenas y formatos radiofónicos/visuales sin tecnicismos sobre el valor del voto libre y secreto.",
+        "Talleres de liderazgo cívico para mujeres rurales y asambleas ejidales/comunitarias en coordinación con Juntas Distritales.",
+        "Rutas móviles de capacitación y acercamiento de casillas para reducir costos de traslado en zonas dispersas."
+      ],
+      "channels": "Radio comunitaria e indigenista, asambleas locales, mercados semanales, promotorías rurales de ENCIVICA.",
+      "cluster_raw": 4,
+      "ln_2024": 14424285,
+      "sv_2024": 9146051,
+      "nv_2024": 4239257,
+      "pct_padron": 14.67,
+      "tasa_2024": 63.41,
+      "tasa_pres": 66.41,
+      "tasa_inter": 57.37,
+      "brecha_pres_inter": 9.04,
+      "edad_media": 53.7,
+      "pct_mujer": 62.1,
+      "pct_hombre": 37.9,
+      "pct_urbano": 0.0,
+      "pct_rural": 77.6,
+      "pct_mixto": 22.4,
+      "escolaridad_est": 6.7,
+      "tendencia_lp": 1.06,
+      "evolucion_anual": {
+        "2009": 52.63,
+        "2012": 70.66,
+        "2015": 57.48,
+        "2018": 65.16,
+        "2021": 62.0,
+        "2024": 63.41
+      },
+      "regiones": {
+        "Centro": 22.5,
+        "Centro-Occidente": 18.6,
+        "Noreste": 10.5,
+        "Noroeste": 5.3,
+        "Sur-Sureste": 43.0
+      },
+      "grupos_edad": {
+        "18-19": 1.2,
+        "20-24": 1.7,
+        "25-29": 3.4,
+        "30-34": 6.0,
+        "35-39": 7.6,
+        "40-49": 21.3,
+        "50-59": 22.4,
+        "60-69": 18.4,
+        "70+": 18.0
+      },
+      "tipo_seccion": {
+        "M": 22.4,
+        "R": 77.6
+      }
+    },
+    {
+      "id": "P3",
+      "order": 3,
+      "name": "Votantes Coyunturales de AltaExpectativa",
+      "subtitle": "Jóvenes-adultos urbanos (especialmente mujeres) que se movilizan en presidenciales pero se ausentan en intermedias",
+      "color": "#D4AC0D",
+      "badge": "Participación Intermitente (Alta Brecha)",
+      "icon": "⚡",
+      "narrative": "Conforman el 16.42% de la Lista Nominal: población urbana (97.1%), joven-adulta (edad media 34.7 años), con alta escolaridad (11.8 años) y fuerte predominio femenino (68.2%). Su rasgo distintivo es la mayor brecha electoral del país (19.94 pp): votan masivamente en presidenciales (60.99%) pero caen drásticamente en intermedias (41.05%).",
+      "ine_strategy": "Pedagogía del Poder Legislativo y Relevancia de Elecciones Intermedias",
+      "ine_actions": [
+        "Campaña focalizada 'El Congreso decide tu día a día': conectar elecciones intermedias con presupuesto en cuidados, salud, seguridad y empleo.",
+        "Herramientas digitales interactivas ('Conoce a tus candidatos a Diputaciones') con comparadores de propuestas en 60 segundos.",
+        "Mensajes diferenciados para mujeres trabajadoras y madres jóvenes sobre el impacto legislativo local y federal."
+      ],
+      "channels": "Instagram, TikTok, WhatsApp, podcasts, transporte público urbano (Metro/Metrobús) y centros de trabajo.",
+      "cluster_raw": 5,
+      "ln_2024": 16141049,
+      "sv_2024": 9350761,
+      "nv_2024": 6015468,
+      "pct_padron": 16.42,
+      "tasa_2024": 57.93,
+      "tasa_pres": 60.99,
+      "tasa_inter": 41.05,
+      "brecha_pres_inter": 19.94,
+      "edad_media": 34.7,
+      "pct_mujer": 68.2,
+      "pct_hombre": 31.8,
+      "pct_urbano": 97.1,
+      "pct_rural": 0.0,
+      "pct_mixto": 2.9,
+      "escolaridad_est": 11.8,
+      "tendencia_lp": 1.49,
+      "evolucion_anual": {
+        "2009": 38.68,
+        "2012": 63.12,
+        "2015": 37.63,
+        "2018": 61.93,
+        "2021": 46.85,
+        "2024": 57.93
+      },
+      "regiones": {
+        "Centro": 69.0,
+        "Centro-Occidente": 3.5,
+        "Noreste": 2.5,
+        "Noroeste": 7.4,
+        "Sur-Sureste": 17.5
+      },
+      "grupos_edad": {
+        "18-19": 6.9,
+        "20-24": 12.2,
+        "25-29": 12.9,
+        "30-34": 16.2,
+        "35-39": 17.7,
+        "40-49": 31.0,
+        "50-59": 3.2
+      },
+      "tipo_seccion": {
+        "M": 2.9,
+        "R": 0.0,
+        "U": 97.1
+      }
+    },
+    {
+      "id": "P4",
+      "order": 4,
+      "name": "Ciudadanía Activa en Desencanto",
+      "subtitle": "Adultos de mediana edad en zonas urbanas y mixtas con fatiga electoral reciente",
+      "color": "#2874A6",
+      "badge": "Participación Media en Retroceso",
+      "icon": "📉",
+      "narrative": "Representan el 13.35% del padrón (edad media 46.2 años, escolaridad media-alta de 10.8 años, en secciones urbanas y mixtas). Históricamente eran votantes constantes (61.47% presidencial, 54.36% intermedia), pero muestran el mayor desgaste longitudinal (-7.21 pp de caída entre el bloque 2009-2012 y 2021-2024). Sufren fatiga o escepticismo sobre la eficacia de su voto.",
+      "ine_strategy": "Reconexión Democrática, Rendición de Cuentas y Combate al Cinismo",
+      "ine_actions": [
+        "Campañas de eficacia política: evidenciar cómo el voto ciudadano y los organismos autónomos protegen derechos y servicios públicos.",
+        "Foros ciudadanos distritales de seguimiento legislativo y exigencia de rendición de cuentas post-electoral.",
+        "Simplificación de información sobre ubicación de casillas cuando hay reconfiguración o cambio de domicilio."
+      ],
+      "channels": "Noticieros matutinos, radio hablada, prensa digital, portales de noticias, asociaciones vecinales y gremiales.",
+      "cluster_raw": 0,
+      "ln_2024": 13123690,
+      "sv_2024": 7548464,
+      "nv_2024": 4672492,
+      "pct_padron": 13.35,
+      "tasa_2024": 57.52,
+      "tasa_pres": 61.47,
+      "tasa_inter": 54.36,
+      "brecha_pres_inter": 7.11,
+      "edad_media": 46.2,
+      "pct_mujer": 55.0,
+      "pct_hombre": 45.0,
+      "pct_urbano": 82.5,
+      "pct_rural": 0.0,
+      "pct_mixto": 17.5,
+      "escolaridad_est": 10.8,
+      "tendencia_lp": -7.21,
+      "evolucion_anual": {
+        "2009": 55.93,
+        "2012": 68.02,
+        "2015": 55.15,
+        "2018": 58.88,
+        "2021": 52.01,
+        "2024": 57.52
+      },
+      "regiones": {
+        "Centro": 6.7,
+        "Centro-Occidente": 39.2,
+        "Noreste": 32.0,
+        "Noroeste": 10.6,
+        "Sur-Sureste": 11.5
+      },
+      "grupos_edad": {
+        "18-19": 3.2,
+        "20-24": 1.3,
+        "25-29": 1.7,
+        "30-34": 5.0,
+        "35-39": 12.2,
+        "40-49": 38.5,
+        "50-59": 29.3,
+        "60-69": 8.0,
+        "70+": 0.6
+      },
+      "tipo_seccion": {
+        "M": 17.5,
+        "U": 82.5
+      }
+    },
+    {
+      "id": "P5",
+      "order": 5,
+      "name": "Juventud Urbana Escéptica y Desconectada",
+      "subtitle": "Jóvenes urbanos (predominantemente hombres de 20 a 34 años) con abstencionismo crónico",
+      "color": "#CB4335",
+      "badge": "Baja Participación Crítica",
+      "icon": "🏙️",
+      "narrative": "Es uno de los grupos más grandes y desafiantes para el INE: 21.66% de la Lista Nominal (21.3 millones de electores). Son 100% urbanos, edad media de 29.4 años, alta escolaridad (11.8 años) y mayoría masculina (69.4% hombres vs 30.6% mujeres). Apenas alcanzan 42.96% en 2024 y un crítico 33.78% en elecciones intermedias. Después de votar por primera vez a los 18 años, se desconectan entre los 20 y 34 años.",
+      "ine_strategy": "Reconquista Digital, Gamificación y Transición post-Primer Voto",
+      "ine_actions": [
+        "Estrategia 'Tu segundo voto importa más': seguimiento cívico a jóvenes de 20 a 29 años que dejaron de votar tras cumplir 18.",
+        "Alianzas con universidades, plataformas de streaming, creadores de contenido, ligas deportivas y gaming para desmitificar el proceso electoral.",
+        "Campañas de actualización de credencial para jóvenes que mudaron de domicilio por estudio o primer empleo (evitar abstención por lejanía de casilla)."
+      ],
+      "channels": "YouTube, Twitch, TikTok, Spotify, universidades, eventos deportivos/culturales y empleadores del sector servicios/tecnología.",
+      "cluster_raw": 1,
+      "ln_2024": 21300800,
+      "sv_2024": 9150378,
+      "nv_2024": 10556368,
+      "pct_padron": 21.66,
+      "tasa_2024": 42.96,
+      "tasa_pres": 47.29,
+      "tasa_inter": 33.78,
+      "brecha_pres_inter": 13.51,
+      "edad_media": 29.4,
+      "pct_mujer": 30.6,
+      "pct_hombre": 69.4,
+      "pct_urbano": 100.0,
+      "pct_rural": 0.0,
+      "pct_mixto": 0.0,
+      "escolaridad_est": 11.8,
+      "tendencia_lp": -2.51,
+      "evolucion_anual": {
+        "2009": 33.09,
+        "2012": 51.23,
+        "2015": 31.9,
+        "2018": 47.67,
+        "2021": 36.34,
+        "2024": 42.96
+      },
+      "regiones": {
+        "Centro": 15.8,
+        "Centro-Occidente": 24.2,
+        "Noreste": 17.6,
+        "Noroeste": 27.7,
+        "Sur-Sureste": 14.7
+      },
+      "grupos_edad": {
+        "18-19": 4.8,
+        "20-24": 26.4,
+        "25-29": 25.9,
+        "30-34": 20.7,
+        "35-39": 12.7,
+        "40-49": 7.5,
+        "50-59": 2.0
+      },
+      "tipo_seccion": {
+        "M": 0.0,
+        "U": 100.0
+      }
+    },
+    {
+      "id": "P6",
+      "order": 6,
+      "name": "Juventud Periférica y Rural con Barreras",
+      "subtitle": "Jóvenes de secciones rurales y mixtas afectados por movilidad laboral y barreras estructurales",
+      "color": "#CA6F1E",
+      "badge": "Baja Participación por Barreras",
+      "icon": "🚧",
+      "narrative": "Abarca el 12.09% de la Lista Nominal (11.88 millones): jóvenes (edad media 29.3 años, 67.4% hombres) en secciones rurales (50.7%) y mixtas (49.3%), con escolaridad media-baja (8.9 años). Tienen una tasa de participación de solo 43.10% en 2024 y 39.41% en intermedias, con tendencia negativa (-2.87 pp), explicada por migración temporal laboral, trabajo en domingo y distancia a casillas.",
+      "ine_strategy": "Inclusión Territorial, Movilidad Laboral y Facilidades para Votar",
+      "ine_actions": [
+        "Campañas con empleadores agropecuarios, industriales y de construcción para garantizar permisos efectivos de acudir a votar el domingo electoral.",
+        "Módulos itinerantes del INE para actualización ágil de domicilio en zonas periurbanas y corredores agrícolas/industriales.",
+        "Educación cívica práctica en telebachilleratos, CONALEP, CBTAs y centros de trabajo sobre cómo ubicar casillas y ejercer el voto."
+      ],
+      "channels": "WhatsApp, Facebook local, radio regional, perifoneo, centros de trabajo agrícola/maquilador y planteles de educación media técnica.",
+      "cluster_raw": 3,
+      "ln_2024": 11883471,
+      "sv_2024": 5122172,
+      "nv_2024": 5922815,
+      "pct_padron": 12.09,
+      "tasa_2024": 43.1,
+      "tasa_pres": 48.68,
+      "tasa_inter": 39.41,
+      "brecha_pres_inter": 9.27,
+      "edad_media": 29.3,
+      "pct_mujer": 32.6,
+      "pct_hombre": 67.4,
+      "pct_urbano": 0.0,
+      "pct_rural": 50.7,
+      "pct_mixto": 49.3,
+      "escolaridad_est": 8.9,
+      "tendencia_lp": -2.87,
+      "evolucion_anual": {
+        "2009": 37.17,
+        "2012": 53.85,
+        "2015": 38.89,
+        "2018": 49.1,
+        "2021": 42.18,
+        "2024": 43.1
+      },
+      "regiones": {
+        "Centro": 17.0,
+        "Centro-Occidente": 26.3,
+        "Noreste": 11.2,
+        "Noroeste": 14.4,
+        "Sur-Sureste": 31.1
+      },
+      "grupos_edad": {
+        "18-19": 6.9,
+        "20-24": 27.8,
+        "25-29": 23.7,
+        "30-34": 18.1,
+        "35-39": 12.5,
+        "40-49": 9.4,
+        "50-59": 1.3,
+        "60-69": 0.2,
+        "70+": 0.1
+      },
+      "tipo_seccion": {
+        "M": 49.3,
+        "R": 50.7
+      }
+    }
+  ],
+  "estados": [
+    {
+      "edocve": 9,
+      "edonom": "Ciudad de México",
+      "region": "Centro",
+      "ln_2024": 7918558,
+      "sv_2024": 5383267,
+      "tasa_2024": 67.98,
+      "tasa_pres": 67.73,
+      "tasa_inter": 45.43,
+      "brecha": 22.3,
+      "escolaridad": 12.4,
+      "perfiles_pct": {
+        "P1": 39.6,
+        "P2": 0.0,
+        "P3": 60.2,
+        "P4": 0.0,
+        "P5": 0.1,
+        "P6": 0.0
+      },
+      "perfil_dominante": "P3",
+      "evolucion": {
+        "2009": 41.8,
+        "2012": 66.92,
+        "2015": 43.07,
+        "2018": 68.3,
+        "2021": 51.43,
+        "2024": 67.98
+      }
+    },
+    {
+      "edocve": 31,
+      "edonom": "Yucatán",
+      "region": "Sur-Sureste",
+      "ln_2024": 1766077,
+      "sv_2024": 1165576,
+      "tasa_2024": 66.0,
+      "tasa_pres": 70.21,
+      "tasa_inter": 60.82,
+      "brecha": 9.39,
+      "escolaridad": 10.2,
+      "perfiles_pct": {
+        "P1": 20.4,
+        "P2": 17.0,
+        "P3": 0.0,
+        "P4": 48.0,
+        "P5": 12.4,
+        "P6": 2.1
+      },
+      "perfil_dominante": "P4",
+      "evolucion": {
+        "2009": 56.42,
+        "2012": 75.95,
+        "2015": 66.46,
+        "2018": 68.69,
+        "2021": 59.59,
+        "2024": 66.0
+      }
+    },
+    {
+      "edocve": 29,
+      "edonom": "Tlaxcala",
+      "region": "Centro",
+      "ln_2024": 1042695,
+      "sv_2024": 684284,
+      "tasa_2024": 65.63,
+      "tasa_pres": 64.0,
+      "tasa_inter": 46.22,
+      "brecha": 17.78,
+      "escolaridad": 10.6,
+      "perfiles_pct": {
+        "P1": 38.3,
+        "P2": 6.3,
+        "P3": 48.5,
+        "P4": 0.0,
+        "P5": 0.0,
+        "P6": 6.9
+      },
+      "perfil_dominante": "P3",
+      "evolucion": {
+        "2009": 37.0,
+        "2012": 63.83,
+        "2015": 39.24,
+        "2018": 62.55,
+        "2021": 62.43,
+        "2024": 65.63
+      }
+    },
+    {
+      "edocve": 15,
+      "edonom": "Estado de México",
+      "region": "Centro",
+      "ln_2024": 13026768,
+      "sv_2024": 7959551,
+      "tasa_2024": 61.1,
+      "tasa_pres": 63.82,
+      "tasa_inter": 50.32,
+      "brecha": 13.5,
+      "escolaridad": 10.7,
+      "perfiles_pct": {
+        "P1": 34.9,
+        "P2": 10.4,
+        "P3": 27.4,
+        "P4": 3.5,
+        "P5": 17.1,
+        "P6": 6.5
+      },
+      "perfil_dominante": "P1",
+      "evolucion": {
+        "2009": 50.79,
+        "2012": 66.57,
+        "2015": 47.55,
+        "2018": 63.78,
+        "2021": 52.62,
+        "2024": 61.1
+      }
+    },
+    {
+      "edocve": 13,
+      "edonom": "Hidalgo",
+      "region": "Centro",
+      "ln_2024": 2386305,
+      "sv_2024": 1427043,
+      "tasa_2024": 59.8,
+      "tasa_pres": 60.73,
+      "tasa_inter": 43.98,
+      "brecha": 16.75,
+      "escolaridad": 8.9,
+      "perfiles_pct": {
+        "P1": 17.7,
+        "P2": 30.4,
+        "P3": 21.4,
+        "P4": 0.0,
+        "P5": 8.0,
+        "P6": 22.5
+      },
+      "perfil_dominante": "P2",
+      "evolucion": {
+        "2009": 42.46,
+        "2012": 65.95,
+        "2015": 44.27,
+        "2018": 56.43,
+        "2021": 45.2,
+        "2024": 59.8
+      }
+    },
+    {
+      "edocve": 22,
+      "edonom": "Querétaro",
+      "region": "Centro-Occidente",
+      "ln_2024": 1899051,
+      "sv_2024": 1131707,
+      "tasa_2024": 59.59,
+      "tasa_pres": 62.55,
+      "tasa_inter": 54.68,
+      "brecha": 7.87,
+      "escolaridad": 10.8,
+      "perfiles_pct": {
+        "P1": 9.6,
+        "P2": 14.2,
+        "P3": 0.0,
+        "P4": 48.2,
+        "P5": 17.5,
+        "P6": 10.5
+      },
+      "perfil_dominante": "P4",
+      "evolucion": {
+        "2009": 59.11,
+        "2012": 66.78,
+        "2015": 54.62,
+        "2018": 61.29,
+        "2021": 50.3,
+        "2024": 59.59
+      }
+    },
+    {
+      "edocve": 21,
+      "edonom": "Puebla",
+      "region": "Centro",
+      "ln_2024": 4978672,
+      "sv_2024": 2963223,
+      "tasa_2024": 59.52,
+      "tasa_pres": 61.66,
+      "tasa_inter": 44.37,
+      "brecha": 17.29,
+      "escolaridad": 9.4,
+      "perfiles_pct": {
+        "P1": 27.9,
+        "P2": 18.9,
+        "P3": 34.1,
+        "P4": 0.0,
+        "P5": 11.0,
+        "P6": 8.1
+      },
+      "perfil_dominante": "P3",
+      "evolucion": {
+        "2009": 38.1,
+        "2012": 62.64,
+        "2015": 41.05,
+        "2018": 62.83,
+        "2021": 53.95,
+        "2024": 59.52
+      }
+    },
+    {
+      "edocve": 17,
+      "edonom": "Morelos",
+      "region": "Centro",
+      "ln_2024": 1549606,
+      "sv_2024": 891464,
+      "tasa_2024": 57.53,
+      "tasa_pres": 61.56,
+      "tasa_inter": 50.98,
+      "brecha": 10.58,
+      "escolaridad": 10.4,
+      "perfiles_pct": {
+        "P1": 22.6,
+        "P2": 10.0,
+        "P3": 5.5,
+        "P4": 26.8,
+        "P5": 25.4,
+        "P6": 9.7
+      },
+      "perfil_dominante": "P4",
+      "evolucion": {
+        "2009": 49.51,
+        "2012": 64.0,
+        "2015": 53.24,
+        "2018": 63.14,
+        "2021": 50.18,
+        "2024": 57.53
+      }
+    },
+    {
+      "edocve": 1,
+      "edonom": "Aguascalientes",
+      "region": "Centro-Occidente",
+      "ln_2024": 1097168,
+      "sv_2024": 626081,
+      "tasa_2024": 57.06,
+      "tasa_pres": 58.18,
+      "tasa_inter": 41.0,
+      "brecha": 17.18,
+      "escolaridad": 10.8,
+      "perfiles_pct": {
+        "P1": 29.2,
+        "P2": 7.1,
+        "P3": 34.2,
+        "P4": 0.0,
+        "P5": 16.6,
+        "P6": 12.9
+      },
+      "perfil_dominante": "P3",
+      "evolucion": {
+        "2009": 38.72,
+        "2012": 59.86,
+        "2015": 35.78,
+        "2018": 57.63,
+        "2021": 48.51,
+        "2024": 57.06
+      }
+    },
+    {
+      "edocve": 24,
+      "edonom": "San Luis Potosí",
+      "region": "Noreste",
+      "ln_2024": 2185470,
+      "sv_2024": 1239523,
+      "tasa_2024": 56.72,
+      "tasa_pres": 60.21,
+      "tasa_inter": 54.58,
+      "brecha": 5.63,
+      "escolaridad": 9.5,
+      "perfiles_pct": {
+        "P1": 15.7,
+        "P2": 25.4,
+        "P3": 0.0,
+        "P4": 25.8,
+        "P5": 19.5,
+        "P6": 13.6
+      },
+      "perfil_dominante": "P4",
+      "evolucion": {
+        "2009": 54.68,
+        "2012": 63.73,
+        "2015": 53.21,
+        "2018": 60.18,
+        "2021": 55.86,
+        "2024": 56.72
+      }
+    },
+    {
+      "edocve": 32,
+      "edonom": "Zacatecas",
+      "region": "Noreste",
+      "ln_2024": 1265939,
+      "sv_2024": 715780,
+      "tasa_2024": 56.54,
+      "tasa_pres": 60.13,
+      "tasa_inter": 48.09,
+      "brecha": 12.04,
+      "escolaridad": 8.9,
+      "perfiles_pct": {
+        "P1": 23.3,
+        "P2": 31.4,
+        "P3": 15.9,
+        "P4": 0.0,
+        "P5": 9.8,
+        "P6": 19.7
+      },
+      "perfil_dominante": "P2",
+      "evolucion": {
+        "2009": 44.59,
+        "2012": 60.99,
+        "2015": 44.97,
+        "2018": 62.85,
+        "2021": 54.72,
+        "2024": 56.54
+      }
+    },
+    {
+      "edocve": 30,
+      "edonom": "Veracruz",
+      "region": "Sur-Sureste",
+      "ln_2024": 6080513,
+      "sv_2024": 3392708,
+      "tasa_2024": 55.8,
+      "tasa_pres": 60.86,
+      "tasa_inter": 50.1,
+      "brecha": 10.76,
+      "escolaridad": 8.5,
+      "perfiles_pct": {
+        "P1": 26.4,
+        "P2": 26.7,
+        "P3": 6.6,
+        "P4": 4.5,
+        "P5": 17.3,
+        "P6": 18.5
+      },
+      "perfil_dominante": "P2",
+      "evolucion": {
+        "2009": 46.87,
+        "2012": 66.36,
+        "2015": 45.31,
+        "2018": 60.42,
+        "2021": 58.11,
+        "2024": 55.8
+      }
+    },
+    {
+      "edocve": 5,
+      "edonom": "Coahuila",
+      "region": "Noreste",
+      "ln_2024": 2410670,
+      "sv_2024": 1332644,
+      "tasa_2024": 55.28,
+      "tasa_pres": 58.91,
+      "tasa_inter": 47.91,
+      "brecha": 11.0,
+      "escolaridad": 11.1,
+      "perfiles_pct": {
+        "P1": 24.8,
+        "P2": 6.7,
+        "P3": 8.1,
+        "P4": 14.4,
+        "P5": 37.7,
+        "P6": 8.2
+      },
+      "perfil_dominante": "P5",
+      "evolucion": {
+        "2009": 44.42,
+        "2012": 61.6,
+        "2015": 43.69,
+        "2018": 59.83,
+        "2021": 55.63,
+        "2024": 55.28
+      }
+    },
+    {
+      "edocve": 6,
+      "edonom": "Colima",
+      "region": "Centro-Occidente",
+      "ln_2024": 584921,
+      "sv_2024": 321763,
+      "tasa_2024": 55.01,
+      "tasa_pres": 59.7,
+      "tasa_inter": 55.07,
+      "brecha": 4.63,
+      "escolaridad": 10.4,
+      "perfiles_pct": {
+        "P1": 5.9,
+        "P2": 10.1,
+        "P3": 0.0,
+        "P4": 62.5,
+        "P5": 10.5,
+        "P6": 11.0
+      },
+      "perfil_dominante": "P4",
+      "evolucion": {
+        "2009": 58.51,
+        "2012": 63.05,
+        "2015": 55.05,
+        "2018": 61.04,
+        "2021": 51.63,
+        "2024": 55.01
+      }
+    },
+    {
+      "edocve": 27,
+      "edonom": "Tabasco",
+      "region": "Sur-Sureste",
+      "ln_2024": 1811509,
+      "sv_2024": 996394,
+      "tasa_2024": 55.0,
+      "tasa_pres": 62.33,
+      "tasa_inter": 46.51,
+      "brecha": 15.82,
+      "escolaridad": 9.4,
+      "perfiles_pct": {
+        "P1": 19.6,
+        "P2": 27.0,
+        "P3": 23.2,
+        "P4": 0.0,
+        "P5": 10.4,
+        "P6": 19.9
+      },
+      "perfil_dominante": "P2",
+      "evolucion": {
+        "2009": 38.46,
+        "2012": 71.1,
+        "2015": 49.58,
+        "2018": 60.88,
+        "2021": 51.48,
+        "2024": 55.0
+      }
+    },
+    {
+      "edocve": 20,
+      "edonom": "Oaxaca",
+      "region": "Sur-Sureste",
+      "ln_2024": 3116671,
+      "sv_2024": 1703640,
+      "tasa_2024": 54.66,
+      "tasa_pres": 59.39,
+      "tasa_inter": 43.68,
+      "brecha": 15.71,
+      "escolaridad": 7.8,
+      "perfiles_pct": {
+        "P1": 14.8,
+        "P2": 30.7,
+        "P3": 20.4,
+        "P4": 0.0,
+        "P5": 6.5,
+        "P6": 27.5
+      },
+      "perfil_dominante": "P2",
+      "evolucion": {
+        "2009": 41.39,
+        "2012": 61.32,
+        "2015": 35.0,
+        "2018": 62.18,
+        "2021": 54.64,
+        "2024": 54.66
+      }
+    },
+    {
+      "edocve": 7,
+      "edonom": "Chiapas",
+      "region": "Sur-Sureste",
+      "ln_2024": 4003376,
+      "sv_2024": 2180203,
+      "tasa_2024": 54.46,
+      "tasa_pres": 60.93,
+      "tasa_inter": 46.01,
+      "brecha": 14.92,
+      "escolaridad": 7.3,
+      "perfiles_pct": {
+        "P1": 12.1,
+        "P2": 43.7,
+        "P3": 15.0,
+        "P4": 0.0,
+        "P5": 11.8,
+        "P6": 17.3
+      },
+      "perfil_dominante": "P2",
+      "evolucion": {
+        "2009": 38.71,
+        "2012": 66.89,
+        "2015": 44.03,
+        "2018": 61.45,
+        "2021": 55.28,
+        "2024": 54.46
+      }
+    },
+    {
+      "edocve": 12,
+      "edonom": "Guerrero",
+      "region": "Sur-Sureste",
+      "ln_2024": 2643256,
+      "sv_2024": 1424264,
+      "tasa_2024": 53.88,
+      "tasa_pres": 57.17,
+      "tasa_inter": 44.72,
+      "brecha": 12.45,
+      "escolaridad": 8.2,
+      "perfiles_pct": {
+        "P1": 23.9,
+        "P2": 33.3,
+        "P3": 10.7,
+        "P4": 0.0,
+        "P5": 17.6,
+        "P6": 14.5
+      },
+      "perfil_dominante": "P2",
+      "evolucion": {
+        "2009": 31.87,
+        "2012": 59.23,
+        "2015": 47.19,
+        "2018": 58.38,
+        "2021": 55.09,
+        "2024": 53.88
+      }
+    },
+    {
+      "edocve": 14,
+      "edonom": "Jalisco",
+      "region": "Centro-Occidente",
+      "ln_2024": 6619354,
+      "sv_2024": 3555332,
+      "tasa_2024": 53.71,
+      "tasa_pres": 57.67,
+      "tasa_inter": 49.45,
+      "brecha": 8.22,
+      "escolaridad": 10.4,
+      "perfiles_pct": {
+        "P1": 10.7,
+        "P2": 8.6,
+        "P3": 0.0,
+        "P4": 40.7,
+        "P5": 29.3,
+        "P6": 10.7
+      },
+      "perfil_dominante": "P4",
+      "evolucion": {
+        "2009": 51.17,
+        "2012": 64.54,
+        "2015": 51.04,
+        "2018": 54.76,
+        "2021": 46.14,
+        "2024": 53.71
+      }
+    },
+    {
+      "edocve": 11,
+      "edonom": "Guanajuato",
+      "region": "Centro-Occidente",
+      "ln_2024": 4831156,
+      "sv_2024": 2592522,
+      "tasa_2024": 53.66,
+      "tasa_pres": 54.2,
+      "tasa_inter": 43.7,
+      "brecha": 10.5,
+      "escolaridad": 9.1,
+      "perfiles_pct": {
+        "P1": 16.8,
+        "P2": 14.6,
+        "P3": 0.0,
+        "P4": 20.3,
+        "P5": 27.1,
+        "P6": 21.2
+      },
+      "perfil_dominante": "P5",
+      "evolucion": {
+        "2009": 45.83,
+        "2012": 59.87,
+        "2015": 42.33,
+        "2018": 49.07,
+        "2021": 42.94,
+        "2024": 53.66
+      }
+    },
+    {
+      "edocve": 4,
+      "edonom": "Campeche",
+      "region": "Sur-Sureste",
+      "ln_2024": 694600,
+      "sv_2024": 372086,
+      "tasa_2024": 53.57,
+      "tasa_pres": 61.01,
+      "tasa_inter": 57.53,
+      "brecha": 3.48,
+      "escolaridad": 9.8,
+      "perfiles_pct": {
+        "P1": 4.8,
+        "P2": 16.8,
+        "P3": 0.0,
+        "P4": 56.1,
+        "P5": 10.0,
+        "P6": 12.4
+      },
+      "perfil_dominante": "P4",
+      "evolucion": {
+        "2009": 62.23,
+        "2012": 67.06,
+        "2015": 53.04,
+        "2018": 62.41,
+        "2021": 57.33,
+        "2024": 53.57
+      }
+    },
+    {
+      "edocve": 23,
+      "edonom": "Quintana Roo",
+      "region": "Sur-Sureste",
+      "ln_2024": 1460070,
+      "sv_2024": 773940,
+      "tasa_2024": 53.01,
+      "tasa_pres": 55.95,
+      "tasa_inter": 37.59,
+      "brecha": 18.36,
+      "escolaridad": 11.1,
+      "perfiles_pct": {
+        "P1": 18.6,
+        "P2": 6.1,
+        "P3": 33.3,
+        "P4": 0.0,
+        "P5": 31.2,
+        "P6": 10.9
+      },
+      "perfil_dominante": "P3",
+      "evolucion": {
+        "2009": 37.25,
+        "2012": 57.55,
+        "2015": 33.74,
+        "2018": 57.28,
+        "2021": 41.8,
+        "2024": 53.01
+      }
+    },
+    {
+      "edocve": 10,
+      "edonom": "Durango",
+      "region": "Noroeste",
+      "ln_2024": 1397549,
+      "sv_2024": 735959,
+      "tasa_2024": 52.66,
+      "tasa_pres": 54.85,
+      "tasa_inter": 40.66,
+      "brecha": 14.19,
+      "escolaridad": 9.8,
+      "perfiles_pct": {
+        "P1": 18.4,
+        "P2": 15.5,
+        "P3": 12.6,
+        "P4": 6.5,
+        "P5": 29.4,
+        "P6": 17.7
+      },
+      "perfil_dominante": "P5",
+      "evolucion": {
+        "2009": 41.82,
+        "2012": 59.12,
+        "2015": 38.88,
+        "2018": 52.76,
+        "2021": 41.29,
+        "2024": 52.66
+      }
+    },
+    {
+      "edocve": 18,
+      "edonom": "Nayarit",
+      "region": "Centro-Occidente",
+      "ln_2024": 950650,
+      "sv_2024": 491812,
+      "tasa_2024": 51.73,
+      "tasa_pres": 56.27,
+      "tasa_inter": 43.99,
+      "brecha": 12.28,
+      "escolaridad": 9.8,
+      "perfiles_pct": {
+        "P1": 19.1,
+        "P2": 17.4,
+        "P3": 9.3,
+        "P4": 4.8,
+        "P5": 31.6,
+        "P6": 17.8
+      },
+      "perfil_dominante": "P5",
+      "evolucion": {
+        "2009": 41.69,
+        "2012": 61.88,
+        "2015": 40.08,
+        "2018": 55.21,
+        "2021": 50.21,
+        "2024": 51.73
+      }
+    },
+    {
+      "edocve": 19,
+      "edonom": "Nuevo León",
+      "region": "Noreste",
+      "ln_2024": 4466262,
+      "sv_2024": 2303906,
+      "tasa_2024": 51.58,
+      "tasa_pres": 54.08,
+      "tasa_inter": 51.44,
+      "brecha": 2.64,
+      "escolaridad": 11.5,
+      "perfiles_pct": {
+        "P1": 6.6,
+        "P2": 2.8,
+        "P3": 0.0,
+        "P4": 59.8,
+        "P5": 24.1,
+        "P6": 6.8
+      },
+      "perfil_dominante": "P4",
+      "evolucion": {
+        "2009": 52.3,
+        "2012": 60.55,
+        "2015": 55.54,
+        "2018": 50.11,
+        "2021": 46.49,
+        "2024": 51.58
+      }
+    },
+    {
+      "edocve": 3,
+      "edonom": "Baja California Sur",
+      "region": "Noroeste",
+      "ln_2024": 613613,
+      "sv_2024": 310713,
+      "tasa_2024": 50.64,
+      "tasa_pres": 54.18,
+      "tasa_inter": 40.93,
+      "brecha": 13.25,
+      "escolaridad": 11.0,
+      "perfiles_pct": {
+        "P1": 26.1,
+        "P2": 4.8,
+        "P3": 13.9,
+        "P4": 0.0,
+        "P5": 42.0,
+        "P6": 13.2
+      },
+      "perfil_dominante": "P5",
+      "evolucion": {
+        "2009": 33.5,
+        "2012": 58.4,
+        "2015": 42.95,
+        "2018": 53.5,
+        "2021": 46.35,
+        "2024": 50.64
+      }
+    },
+    {
+      "edocve": 28,
+      "edonom": "Tamaulipas",
+      "region": "Noreste",
+      "ln_2024": 2848980,
+      "sv_2024": 1430664,
+      "tasa_2024": 50.22,
+      "tasa_pres": 54.99,
+      "tasa_inter": 44.95,
+      "brecha": 10.04,
+      "escolaridad": 10.7,
+      "perfiles_pct": {
+        "P1": 15.7,
+        "P2": 9.9,
+        "P3": 0.0,
+        "P4": 21.8,
+        "P5": 42.7,
+        "P6": 9.9
+      },
+      "perfil_dominante": "P5",
+      "evolucion": {
+        "2009": 41.49,
+        "2012": 58.24,
+        "2015": 43.88,
+        "2018": 56.51,
+        "2021": 49.48,
+        "2024": 50.22
+      }
+    },
+    {
+      "edocve": 16,
+      "edonom": "Michoacán",
+      "region": "Centro-Occidente",
+      "ln_2024": 3748985,
+      "sv_2024": 1856524,
+      "tasa_2024": 49.52,
+      "tasa_pres": 52.15,
+      "tasa_inter": 43.01,
+      "brecha": 9.14,
+      "escolaridad": 8.5,
+      "perfiles_pct": {
+        "P1": 21.9,
+        "P2": 22.2,
+        "P3": 2.9,
+        "P4": 3.9,
+        "P5": 27.4,
+        "P6": 21.7
+      },
+      "perfil_dominante": "P5",
+      "evolucion": {
+        "2009": 32.75,
+        "2012": 52.75,
+        "2015": 50.68,
+        "2018": 54.16,
+        "2021": 45.61,
+        "2024": 49.52
+      }
+    },
+    {
+      "edocve": 25,
+      "edonom": "Sinaloa",
+      "region": "Noroeste",
+      "ln_2024": 2360619,
+      "sv_2024": 1162020,
+      "tasa_2024": 49.23,
+      "tasa_pres": 53.25,
+      "tasa_inter": 40.37,
+      "brecha": 12.88,
+      "escolaridad": 10.6,
+      "perfiles_pct": {
+        "P1": 20.9,
+        "P2": 9.6,
+        "P3": 10.1,
+        "P4": 8.4,
+        "P5": 35.9,
+        "P6": 15.0
+      },
+      "perfil_dominante": "P5",
+      "evolucion": {
+        "2009": 39.75,
+        "2012": 60.92,
+        "2015": 36.9,
+        "2018": 49.62,
+        "2021": 44.46,
+        "2024": 49.23
+      }
+    },
+    {
+      "edocve": 26,
+      "edonom": "Sonora",
+      "region": "Noroeste",
+      "ln_2024": 2291011,
+      "sv_2024": 1018160,
+      "tasa_2024": 44.44,
+      "tasa_pres": 48.73,
+      "tasa_inter": 44.84,
+      "brecha": 3.89,
+      "escolaridad": 11.0,
+      "perfiles_pct": {
+        "P1": 2.8,
+        "P2": 4.8,
+        "P3": 0.0,
+        "P4": 47.8,
+        "P5": 32.2,
+        "P6": 12.5
+      },
+      "perfil_dominante": "P4",
+      "evolucion": {
+        "2009": 50.64,
+        "2012": 58.15,
+        "2015": 44.02,
+        "2018": 43.6,
+        "2021": 39.86,
+        "2024": 44.44
+      }
+    },
+    {
+      "edocve": 8,
+      "edonom": "Chihuahua",
+      "region": "Noroeste",
+      "ln_2024": 3082356,
+      "sv_2024": 1360064,
+      "tasa_2024": 44.12,
+      "tasa_pres": 48.03,
+      "tasa_inter": 34.13,
+      "brecha": 13.9,
+      "escolaridad": 10.7,
+      "perfiles_pct": {
+        "P1": 16.2,
+        "P2": 4.9,
+        "P3": 7.1,
+        "P4": 0.0,
+        "P5": 60.5,
+        "P6": 11.3
+      },
+      "perfil_dominante": "P5",
+      "evolucion": {
+        "2009": 31.09,
+        "2012": 52.59,
+        "2015": 31.07,
+        "2018": 47.37,
+        "2021": 40.24,
+        "2024": 44.12
+      }
+    },
+    {
+      "edocve": 2,
+      "edonom": "Baja California",
+      "region": "Noroeste",
+      "ln_2024": 3197813,
+      "sv_2024": 1396332,
+      "tasa_2024": 43.67,
+      "tasa_pres": 49.17,
+      "tasa_inter": 32.19,
+      "brecha": 16.98,
+      "escolaridad": 11.0,
+      "perfiles_pct": {
+        "P1": 15.4,
+        "P2": 1.1,
+        "P3": 15.1,
+        "P4": 0.0,
+        "P5": 55.9,
+        "P6": 12.4
+      },
+      "perfil_dominante": "P5",
+      "evolucion": {
+        "2009": 30.69,
+        "2012": 53.19,
+        "2015": 30.47,
+        "2018": 50.64,
+        "2021": 35.41,
+        "2024": 43.67
+      }
+    }
+  ],
+  "edad_exacta_2024": [
+    {
+      "AELEC": 2024,
+      "EDAD": 18,
+      "SEXO": 0,
+      "LN": 735504,
+      "SV": 397946,
+      "TASA": 54.11
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 18,
+      "SEXO": 1,
+      "LN": 746575,
+      "SV": 454403,
+      "TASA": 60.87
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 19,
+      "SEXO": 0,
+      "LN": 1034702,
+      "SV": 474060,
+      "TASA": 45.82
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 19,
+      "SEXO": 1,
+      "LN": 1046552,
+      "SV": 564332,
+      "TASA": 53.92
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 20,
+      "SEXO": 0,
+      "LN": 1091316,
+      "SV": 465403,
+      "TASA": 42.65
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 20,
+      "SEXO": 1,
+      "LN": 1102096,
+      "SV": 567896,
+      "TASA": 51.53
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 21,
+      "SEXO": 0,
+      "LN": 1115457,
+      "SV": 455051,
+      "TASA": 40.8
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 21,
+      "SEXO": 1,
+      "LN": 1125537,
+      "SV": 569339,
+      "TASA": 50.58
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 22,
+      "SEXO": 0,
+      "LN": 1125964,
+      "SV": 449532,
+      "TASA": 39.92
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 22,
+      "SEXO": 1,
+      "LN": 1131636,
+      "SV": 567329,
+      "TASA": 50.13
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 23,
+      "SEXO": 0,
+      "LN": 1157655,
+      "SV": 449032,
+      "TASA": 38.79
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 23,
+      "SEXO": 1,
+      "LN": 1160108,
+      "SV": 576162,
+      "TASA": 49.66
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 24,
+      "SEXO": 0,
+      "LN": 1151884,
+      "SV": 442558,
+      "TASA": 38.42
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 24,
+      "SEXO": 1,
+      "LN": 1152032,
+      "SV": 571842,
+      "TASA": 49.64
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 25,
+      "SEXO": 0,
+      "LN": 1114076,
+      "SV": 423517,
+      "TASA": 38.02
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 25,
+      "SEXO": 1,
+      "LN": 1112580,
+      "SV": 552946,
+      "TASA": 49.7
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 26,
+      "SEXO": 0,
+      "LN": 1108569,
+      "SV": 420437,
+      "TASA": 37.93
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 26,
+      "SEXO": 1,
+      "LN": 1105888,
+      "SV": 552374,
+      "TASA": 49.95
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 27,
+      "SEXO": 0,
+      "LN": 1093029,
+      "SV": 413556,
+      "TASA": 37.84
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 27,
+      "SEXO": 1,
+      "LN": 1092958,
+      "SV": 549592,
+      "TASA": 50.28
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 28,
+      "SEXO": 0,
+      "LN": 1123323,
+      "SV": 420934,
+      "TASA": 37.47
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 28,
+      "SEXO": 1,
+      "LN": 1127164,
+      "SV": 568046,
+      "TASA": 50.4
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 29,
+      "SEXO": 0,
+      "LN": 1121516,
+      "SV": 429680,
+      "TASA": 38.31
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 29,
+      "SEXO": 1,
+      "LN": 1139537,
+      "SV": 586264,
+      "TASA": 51.45
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 30,
+      "SEXO": 0,
+      "LN": 1077355,
+      "SV": 435155,
+      "TASA": 40.39
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 30,
+      "SEXO": 1,
+      "LN": 1115475,
+      "SV": 595713,
+      "TASA": 53.4
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 31,
+      "SEXO": 0,
+      "LN": 1071799,
+      "SV": 443996,
+      "TASA": 41.43
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 31,
+      "SEXO": 1,
+      "LN": 1117487,
+      "SV": 606777,
+      "TASA": 54.3
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 32,
+      "SEXO": 0,
+      "LN": 1057167,
+      "SV": 444334,
+      "TASA": 42.03
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 32,
+      "SEXO": 1,
+      "LN": 1106538,
+      "SV": 607408,
+      "TASA": 54.89
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 33,
+      "SEXO": 0,
+      "LN": 1036770,
+      "SV": 445425,
+      "TASA": 42.96
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 33,
+      "SEXO": 1,
+      "LN": 1087001,
+      "SV": 604700,
+      "TASA": 55.63
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 34,
+      "SEXO": 0,
+      "LN": 1016954,
+      "SV": 441772,
+      "TASA": 43.44
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 34,
+      "SEXO": 1,
+      "LN": 1072739,
+      "SV": 604226,
+      "TASA": 56.33
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 35,
+      "SEXO": 0,
+      "LN": 980297,
+      "SV": 434122,
+      "TASA": 44.28
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 35,
+      "SEXO": 1,
+      "LN": 1034844,
+      "SV": 589267,
+      "TASA": 56.94
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 36,
+      "SEXO": 0,
+      "LN": 961218,
+      "SV": 433120,
+      "TASA": 45.06
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 36,
+      "SEXO": 1,
+      "LN": 1018435,
+      "SV": 589633,
+      "TASA": 57.9
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 37,
+      "SEXO": 0,
+      "LN": 953949,
+      "SV": 438691,
+      "TASA": 45.99
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 37,
+      "SEXO": 1,
+      "LN": 1019041,
+      "SV": 598326,
+      "TASA": 58.71
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 38,
+      "SEXO": 0,
+      "LN": 930944,
+      "SV": 434871,
+      "TASA": 46.71
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 38,
+      "SEXO": 1,
+      "LN": 994581,
+      "SV": 590895,
+      "TASA": 59.41
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 39,
+      "SEXO": 0,
+      "LN": 922849,
+      "SV": 439853,
+      "TASA": 47.66
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 39,
+      "SEXO": 1,
+      "LN": 988953,
+      "SV": 594336,
+      "TASA": 60.1
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 40,
+      "SEXO": 0,
+      "LN": 909915,
+      "SV": 441632,
+      "TASA": 48.54
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 40,
+      "SEXO": 1,
+      "LN": 977101,
+      "SV": 595454,
+      "TASA": 60.94
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 41,
+      "SEXO": 0,
+      "LN": 911659,
+      "SV": 449122,
+      "TASA": 49.26
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 41,
+      "SEXO": 1,
+      "LN": 982376,
+      "SV": 602366,
+      "TASA": 61.32
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 42,
+      "SEXO": 0,
+      "LN": 886191,
+      "SV": 445442,
+      "TASA": 50.26
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 42,
+      "SEXO": 1,
+      "LN": 956752,
+      "SV": 593672,
+      "TASA": 62.05
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 43,
+      "SEXO": 0,
+      "LN": 867076,
+      "SV": 443417,
+      "TASA": 51.14
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 43,
+      "SEXO": 1,
+      "LN": 937255,
+      "SV": 587296,
+      "TASA": 62.66
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 44,
+      "SEXO": 0,
+      "LN": 855497,
+      "SV": 444494,
+      "TASA": 51.96
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 44,
+      "SEXO": 1,
+      "LN": 930200,
+      "SV": 586628,
+      "TASA": 63.06
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 45,
+      "SEXO": 0,
+      "LN": 838522,
+      "SV": 444343,
+      "TASA": 52.99
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 45,
+      "SEXO": 1,
+      "LN": 915728,
+      "SV": 582947,
+      "TASA": 63.66
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 46,
+      "SEXO": 0,
+      "LN": 838855,
+      "SV": 452519,
+      "TASA": 53.94
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 46,
+      "SEXO": 1,
+      "LN": 921196,
+      "SV": 591910,
+      "TASA": 64.25
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 47,
+      "SEXO": 0,
+      "LN": 835074,
+      "SV": 456251,
+      "TASA": 54.64
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 47,
+      "SEXO": 1,
+      "LN": 914497,
+      "SV": 592076,
+      "TASA": 64.74
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 48,
+      "SEXO": 0,
+      "LN": 829636,
+      "SV": 461151,
+      "TASA": 55.58
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 48,
+      "SEXO": 1,
+      "LN": 908662,
+      "SV": 592725,
+      "TASA": 65.23
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 49,
+      "SEXO": 0,
+      "LN": 832202,
+      "SV": 470508,
+      "TASA": 56.54
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 49,
+      "SEXO": 1,
+      "LN": 913393,
+      "SV": 599828,
+      "TASA": 65.67
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 50,
+      "SEXO": 0,
+      "LN": 828978,
+      "SV": 476379,
+      "TASA": 57.47
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 50,
+      "SEXO": 1,
+      "LN": 909027,
+      "SV": 600857,
+      "TASA": 66.1
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 51,
+      "SEXO": 0,
+      "LN": 808668,
+      "SV": 470909,
+      "TASA": 58.23
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 51,
+      "SEXO": 1,
+      "LN": 893858,
+      "SV": 593246,
+      "TASA": 66.37
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 52,
+      "SEXO": 0,
+      "LN": 782182,
+      "SV": 460868,
+      "TASA": 58.92
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 52,
+      "SEXO": 1,
+      "LN": 865021,
+      "SV": 577075,
+      "TASA": 66.71
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 53,
+      "SEXO": 0,
+      "LN": 743954,
+      "SV": 443463,
+      "TASA": 59.61
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 53,
+      "SEXO": 1,
+      "LN": 826292,
+      "SV": 554114,
+      "TASA": 67.06
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 54,
+      "SEXO": 0,
+      "LN": 714314,
+      "SV": 428348,
+      "TASA": 59.97
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 54,
+      "SEXO": 1,
+      "LN": 797074,
+      "SV": 536027,
+      "TASA": 67.25
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 55,
+      "SEXO": 0,
+      "LN": 689414,
+      "SV": 416522,
+      "TASA": 60.42
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 55,
+      "SEXO": 1,
+      "LN": 773108,
+      "SV": 521100,
+      "TASA": 67.4
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 56,
+      "SEXO": 0,
+      "LN": 671086,
+      "SV": 409880,
+      "TASA": 61.08
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 56,
+      "SEXO": 1,
+      "LN": 758550,
+      "SV": 513036,
+      "TASA": 67.63
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 57,
+      "SEXO": 0,
+      "LN": 641095,
+      "SV": 396206,
+      "TASA": 61.8
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 57,
+      "SEXO": 1,
+      "LN": 726044,
+      "SV": 494189,
+      "TASA": 68.07
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 58,
+      "SEXO": 0,
+      "LN": 622023,
+      "SV": 388166,
+      "TASA": 62.4
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 58,
+      "SEXO": 1,
+      "LN": 708197,
+      "SV": 484555,
+      "TASA": 68.42
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 59,
+      "SEXO": 0,
+      "LN": 605547,
+      "SV": 384721,
+      "TASA": 63.53
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 59,
+      "SEXO": 1,
+      "LN": 690927,
+      "SV": 476458,
+      "TASA": 68.96
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 60,
+      "SEXO": 0,
+      "LN": 584457,
+      "SV": 380334,
+      "TASA": 65.07
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 60,
+      "SEXO": 1,
+      "LN": 667448,
+      "SV": 466247,
+      "TASA": 69.86
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 61,
+      "SEXO": 0,
+      "LN": 558036,
+      "SV": 367604,
+      "TASA": 65.87
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 61,
+      "SEXO": 1,
+      "LN": 641041,
+      "SV": 447878,
+      "TASA": 69.87
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 62,
+      "SEXO": 0,
+      "LN": 534845,
+      "SV": 355613,
+      "TASA": 66.49
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 62,
+      "SEXO": 1,
+      "LN": 613512,
+      "SV": 428795,
+      "TASA": 69.89
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 63,
+      "SEXO": 0,
+      "LN": 514787,
+      "SV": 346731,
+      "TASA": 67.35
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 63,
+      "SEXO": 1,
+      "LN": 594250,
+      "SV": 416386,
+      "TASA": 70.07
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 64,
+      "SEXO": 0,
+      "LN": 499638,
+      "SV": 341422,
+      "TASA": 68.33
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 64,
+      "SEXO": 1,
+      "LN": 577523,
+      "SV": 408035,
+      "TASA": 70.65
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 65,
+      "SEXO": 0,
+      "LN": 477419,
+      "SV": 340520,
+      "TASA": 71.33
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 65,
+      "SEXO": 1,
+      "LN": 548690,
+      "SV": 397962,
+      "TASA": 72.53
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 66,
+      "SEXO": 0,
+      "LN": 444787,
+      "SV": 317604,
+      "TASA": 71.41
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 66,
+      "SEXO": 1,
+      "LN": 512844,
+      "SV": 369193,
+      "TASA": 71.99
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 67,
+      "SEXO": 0,
+      "LN": 427664,
+      "SV": 305887,
+      "TASA": 71.53
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 67,
+      "SEXO": 1,
+      "LN": 492524,
+      "SV": 352902,
+      "TASA": 71.65
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 68,
+      "SEXO": 0,
+      "LN": 405169,
+      "SV": 291176,
+      "TASA": 71.87
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 68,
+      "SEXO": 1,
+      "LN": 469169,
+      "SV": 335976,
+      "TASA": 71.61
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 69,
+      "SEXO": 0,
+      "LN": 383868,
+      "SV": 276068,
+      "TASA": 71.92
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 69,
+      "SEXO": 1,
+      "LN": 447081,
+      "SV": 319301,
+      "TASA": 71.42
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 70,
+      "SEXO": 0,
+      "LN": 349072,
+      "SV": 251328,
+      "TASA": 72.0
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 70,
+      "SEXO": 1,
+      "LN": 406850,
+      "SV": 289080,
+      "TASA": 71.05
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 71,
+      "SEXO": 0,
+      "LN": 325501,
+      "SV": 233631,
+      "TASA": 71.78
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 71,
+      "SEXO": 1,
+      "LN": 381546,
+      "SV": 269269,
+      "TASA": 70.57
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 72,
+      "SEXO": 0,
+      "LN": 297347,
+      "SV": 214161,
+      "TASA": 72.02
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 72,
+      "SEXO": 1,
+      "LN": 348449,
+      "SV": 244477,
+      "TASA": 70.16
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 73,
+      "SEXO": 0,
+      "LN": 283915,
+      "SV": 203291,
+      "TASA": 71.6
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 73,
+      "SEXO": 1,
+      "LN": 337700,
+      "SV": 233637,
+      "TASA": 69.18
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 74,
+      "SEXO": 0,
+      "LN": 261213,
+      "SV": 185516,
+      "TASA": 71.02
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 74,
+      "SEXO": 1,
+      "LN": 311755,
+      "SV": 213098,
+      "TASA": 68.35
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 75,
+      "SEXO": 0,
+      "LN": 239405,
+      "SV": 169143,
+      "TASA": 70.65
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 75,
+      "SEXO": 1,
+      "LN": 288129,
+      "SV": 193904,
+      "TASA": 67.3
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 76,
+      "SEXO": 0,
+      "LN": 226120,
+      "SV": 158127,
+      "TASA": 69.93
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 76,
+      "SEXO": 1,
+      "LN": 272226,
+      "SV": 180479,
+      "TASA": 66.3
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 77,
+      "SEXO": 0,
+      "LN": 208403,
+      "SV": 144584,
+      "TASA": 69.38
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 77,
+      "SEXO": 1,
+      "LN": 253512,
+      "SV": 166107,
+      "TASA": 65.52
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 78,
+      "SEXO": 0,
+      "LN": 186227,
+      "SV": 126784,
+      "TASA": 68.08
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 78,
+      "SEXO": 1,
+      "LN": 232332,
+      "SV": 147814,
+      "TASA": 63.62
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 79,
+      "SEXO": 0,
+      "LN": 169619,
+      "SV": 114030,
+      "TASA": 67.23
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 79,
+      "SEXO": 1,
+      "LN": 211298,
+      "SV": 131374,
+      "TASA": 62.17
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 80,
+      "SEXO": 0,
+      "LN": 154480,
+      "SV": 101819,
+      "TASA": 65.91
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 80,
+      "SEXO": 1,
+      "LN": 193052,
+      "SV": 116593,
+      "TASA": 60.39
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 81,
+      "SEXO": 0,
+      "LN": 140692,
+      "SV": 91082,
+      "TASA": 64.74
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 81,
+      "SEXO": 1,
+      "LN": 180749,
+      "SV": 106060,
+      "TASA": 58.68
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 82,
+      "SEXO": 0,
+      "LN": 123989,
+      "SV": 78426,
+      "TASA": 63.25
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 82,
+      "SEXO": 1,
+      "LN": 159303,
+      "SV": 90371,
+      "TASA": 56.73
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 83,
+      "SEXO": 0,
+      "LN": 114001,
+      "SV": 69947,
+      "TASA": 61.36
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 83,
+      "SEXO": 1,
+      "LN": 152384,
+      "SV": 82527,
+      "TASA": 54.16
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 84,
+      "SEXO": 0,
+      "LN": 100567,
+      "SV": 59484,
+      "TASA": 59.15
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 84,
+      "SEXO": 1,
+      "LN": 134749,
+      "SV": 70036,
+      "TASA": 51.98
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 85,
+      "SEXO": 0,
+      "LN": 87465,
+      "SV": 49958,
+      "TASA": 57.12
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 85,
+      "SEXO": 1,
+      "LN": 118914,
+      "SV": 59127,
+      "TASA": 49.72
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 86,
+      "SEXO": 0,
+      "LN": 75963,
+      "SV": 41593,
+      "TASA": 54.75
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 86,
+      "SEXO": 1,
+      "LN": 105194,
+      "SV": 49415,
+      "TASA": 46.98
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 87,
+      "SEXO": 0,
+      "LN": 66616,
+      "SV": 34680,
+      "TASA": 52.06
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 87,
+      "SEXO": 1,
+      "LN": 93645,
+      "SV": 41653,
+      "TASA": 44.48
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 88,
+      "SEXO": 0,
+      "LN": 59044,
+      "SV": 29214,
+      "TASA": 49.48
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 88,
+      "SEXO": 1,
+      "LN": 86087,
+      "SV": 35953,
+      "TASA": 41.76
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 89,
+      "SEXO": 0,
+      "LN": 49237,
+      "SV": 23063,
+      "TASA": 46.84
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 89,
+      "SEXO": 1,
+      "LN": 73258,
+      "SV": 28606,
+      "TASA": 39.05
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 90,
+      "SEXO": 0,
+      "LN": 40078,
+      "SV": 17503,
+      "TASA": 43.67
+    },
+    {
+      "AELEC": 2024,
+      "EDAD": 90,
+      "SEXO": 1,
+      "LN": 60598,
+      "SV": 21806,
+      "TASA": 35.98
+    }
+  ],
+  "edad_exacta_2021": [
+    {
+      "AELEC": 2021,
+      "EDAD": 18,
+      "SEXO": 0,
+      "LN": 661484,
+      "SV": 333396,
+      "TASA": 50.4
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 18,
+      "SEXO": 1,
+      "LN": 657235,
+      "SV": 370549,
+      "TASA": 56.38
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 19,
+      "SEXO": 0,
+      "LN": 949961,
+      "SV": 409193,
+      "TASA": 43.07
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 19,
+      "SEXO": 1,
+      "LN": 954508,
+      "SV": 477986,
+      "TASA": 50.08
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 20,
+      "SEXO": 0,
+      "LN": 1102234,
+      "SV": 424063,
+      "TASA": 38.47
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 20,
+      "SEXO": 1,
+      "LN": 1111346,
+      "SV": 514807,
+      "TASA": 46.32
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 21,
+      "SEXO": 0,
+      "LN": 1125782,
+      "SV": 409507,
+      "TASA": 36.38
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 21,
+      "SEXO": 1,
+      "LN": 1130488,
+      "SV": 504796,
+      "TASA": 44.65
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 22,
+      "SEXO": 0,
+      "LN": 1100444,
+      "SV": 384517,
+      "TASA": 34.94
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 22,
+      "SEXO": 1,
+      "LN": 1100831,
+      "SV": 481089,
+      "TASA": 43.7
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 23,
+      "SEXO": 0,
+      "LN": 1102574,
+      "SV": 376117,
+      "TASA": 34.11
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 23,
+      "SEXO": 1,
+      "LN": 1099267,
+      "SV": 475861,
+      "TASA": 43.29
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 24,
+      "SEXO": 0,
+      "LN": 1091594,
+      "SV": 367433,
+      "TASA": 33.66
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 24,
+      "SEXO": 1,
+      "LN": 1088955,
+      "SV": 469235,
+      "TASA": 43.09
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 25,
+      "SEXO": 0,
+      "LN": 1124521,
+      "SV": 370687,
+      "TASA": 32.96
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 25,
+      "SEXO": 1,
+      "LN": 1124258,
+      "SV": 481563,
+      "TASA": 42.83
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 26,
+      "SEXO": 0,
+      "LN": 1147394,
+      "SV": 374666,
+      "TASA": 32.65
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 26,
+      "SEXO": 1,
+      "LN": 1150026,
+      "SV": 493268,
+      "TASA": 42.89
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 27,
+      "SEXO": 0,
+      "LN": 1139690,
+      "SV": 371695,
+      "TASA": 32.61
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 27,
+      "SEXO": 1,
+      "LN": 1144993,
+      "SV": 492765,
+      "TASA": 43.04
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 28,
+      "SEXO": 0,
+      "LN": 1141076,
+      "SV": 372231,
+      "TASA": 32.62
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 28,
+      "SEXO": 1,
+      "LN": 1150487,
+      "SV": 497591,
+      "TASA": 43.25
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 29,
+      "SEXO": 0,
+      "LN": 1126256,
+      "SV": 366969,
+      "TASA": 32.58
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 29,
+      "SEXO": 1,
+      "LN": 1139582,
+      "SV": 495625,
+      "TASA": 43.49
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 30,
+      "SEXO": 0,
+      "LN": 1084179,
+      "SV": 367432,
+      "TASA": 33.89
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 30,
+      "SEXO": 1,
+      "LN": 1107388,
+      "SV": 493461,
+      "TASA": 44.56
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 31,
+      "SEXO": 0,
+      "LN": 1035745,
+      "SV": 363808,
+      "TASA": 35.13
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 31,
+      "SEXO": 1,
+      "LN": 1073744,
+      "SV": 494397,
+      "TASA": 46.04
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 32,
+      "SEXO": 0,
+      "LN": 993297,
+      "SV": 357494,
+      "TASA": 35.99
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 32,
+      "SEXO": 1,
+      "LN": 1032630,
+      "SV": 483647,
+      "TASA": 46.84
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 33,
+      "SEXO": 0,
+      "LN": 976227,
+      "SV": 360050,
+      "TASA": 36.88
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 33,
+      "SEXO": 1,
+      "LN": 1018793,
+      "SV": 487216,
+      "TASA": 47.82
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 34,
+      "SEXO": 0,
+      "LN": 967663,
+      "SV": 364488,
+      "TASA": 37.67
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 34,
+      "SEXO": 1,
+      "LN": 1019648,
+      "SV": 497374,
+      "TASA": 48.78
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 35,
+      "SEXO": 0,
+      "LN": 944054,
+      "SV": 364555,
+      "TASA": 38.62
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 35,
+      "SEXO": 1,
+      "LN": 996488,
+      "SV": 494314,
+      "TASA": 49.61
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 36,
+      "SEXO": 0,
+      "LN": 936305,
+      "SV": 369861,
+      "TASA": 39.5
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 36,
+      "SEXO": 1,
+      "LN": 991142,
+      "SV": 499848,
+      "TASA": 50.43
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 37,
+      "SEXO": 0,
+      "LN": 923657,
+      "SV": 373084,
+      "TASA": 40.39
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 37,
+      "SEXO": 1,
+      "LN": 979541,
+      "SV": 502852,
+      "TASA": 51.34
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 38,
+      "SEXO": 0,
+      "LN": 926048,
+      "SV": 381403,
+      "TASA": 41.19
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 38,
+      "SEXO": 1,
+      "LN": 985786,
+      "SV": 513888,
+      "TASA": 52.13
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 39,
+      "SEXO": 0,
+      "LN": 899859,
+      "SV": 380614,
+      "TASA": 42.3
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 39,
+      "SEXO": 1,
+      "LN": 961129,
+      "SV": 509677,
+      "TASA": 53.03
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 40,
+      "SEXO": 0,
+      "LN": 880864,
+      "SV": 382291,
+      "TASA": 43.4
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 40,
+      "SEXO": 1,
+      "LN": 941381,
+      "SV": 509307,
+      "TASA": 54.1
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 41,
+      "SEXO": 0,
+      "LN": 869334,
+      "SV": 385386,
+      "TASA": 44.33
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 41,
+      "SEXO": 1,
+      "LN": 934832,
+      "SV": 512289,
+      "TASA": 54.8
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 42,
+      "SEXO": 0,
+      "LN": 852882,
+      "SV": 387668,
+      "TASA": 45.45
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 42,
+      "SEXO": 1,
+      "LN": 920627,
+      "SV": 512861,
+      "TASA": 55.71
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 43,
+      "SEXO": 0,
+      "LN": 853222,
+      "SV": 396471,
+      "TASA": 46.47
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 43,
+      "SEXO": 1,
+      "LN": 926025,
+      "SV": 520474,
+      "TASA": 56.21
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 44,
+      "SEXO": 0,
+      "LN": 850284,
+      "SV": 401575,
+      "TASA": 47.23
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 44,
+      "SEXO": 1,
+      "LN": 920439,
+      "SV": 523876,
+      "TASA": 56.92
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 45,
+      "SEXO": 0,
+      "LN": 843929,
+      "SV": 407624,
+      "TASA": 48.3
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 45,
+      "SEXO": 1,
+      "LN": 913521,
+      "SV": 524461,
+      "TASA": 57.41
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 46,
+      "SEXO": 0,
+      "LN": 846414,
+      "SV": 416638,
+      "TASA": 49.22
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 46,
+      "SEXO": 1,
+      "LN": 918343,
+      "SV": 533757,
+      "TASA": 58.12
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 47,
+      "SEXO": 0,
+      "LN": 843586,
+      "SV": 423019,
+      "TASA": 50.15
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 47,
+      "SEXO": 1,
+      "LN": 913758,
+      "SV": 535445,
+      "TASA": 58.6
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 48,
+      "SEXO": 0,
+      "LN": 823929,
+      "SV": 420150,
+      "TASA": 50.99
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 48,
+      "SEXO": 1,
+      "LN": 898946,
+      "SV": 530527,
+      "TASA": 59.02
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 49,
+      "SEXO": 0,
+      "LN": 796452,
+      "SV": 413077,
+      "TASA": 51.86
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 49,
+      "SEXO": 1,
+      "LN": 869313,
+      "SV": 518423,
+      "TASA": 59.64
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 50,
+      "SEXO": 0,
+      "LN": 757525,
+      "SV": 400153,
+      "TASA": 52.82
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 50,
+      "SEXO": 1,
+      "LN": 830975,
+      "SV": 500436,
+      "TASA": 60.22
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 51,
+      "SEXO": 0,
+      "LN": 726077,
+      "SV": 387737,
+      "TASA": 53.4
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 51,
+      "SEXO": 1,
+      "LN": 800793,
+      "SV": 484736,
+      "TASA": 60.53
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 52,
+      "SEXO": 0,
+      "LN": 701842,
+      "SV": 378857,
+      "TASA": 53.98
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 52,
+      "SEXO": 1,
+      "LN": 777109,
+      "SV": 473832,
+      "TASA": 60.97
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 53,
+      "SEXO": 0,
+      "LN": 683926,
+      "SV": 373465,
+      "TASA": 54.61
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 53,
+      "SEXO": 1,
+      "LN": 762755,
+      "SV": 467990,
+      "TASA": 61.36
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 54,
+      "SEXO": 0,
+      "LN": 653260,
+      "SV": 361525,
+      "TASA": 55.34
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 54,
+      "SEXO": 1,
+      "LN": 731172,
+      "SV": 452207,
+      "TASA": 61.85
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 55,
+      "SEXO": 0,
+      "LN": 635173,
+      "SV": 355894,
+      "TASA": 56.03
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 55,
+      "SEXO": 1,
+      "LN": 714917,
+      "SV": 444187,
+      "TASA": 62.13
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 56,
+      "SEXO": 0,
+      "LN": 618801,
+      "SV": 350368,
+      "TASA": 56.62
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 56,
+      "SEXO": 1,
+      "LN": 697849,
+      "SV": 435215,
+      "TASA": 62.37
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 57,
+      "SEXO": 0,
+      "LN": 597065,
+      "SV": 343422,
+      "TASA": 57.52
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 57,
+      "SEXO": 1,
+      "LN": 674969,
+      "SV": 423034,
+      "TASA": 62.67
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 58,
+      "SEXO": 0,
+      "LN": 569185,
+      "SV": 331156,
+      "TASA": 58.18
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 58,
+      "SEXO": 1,
+      "LN": 647617,
+      "SV": 406927,
+      "TASA": 62.83
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 59,
+      "SEXO": 0,
+      "LN": 545644,
+      "SV": 321494,
+      "TASA": 58.92
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 59,
+      "SEXO": 1,
+      "LN": 619641,
+      "SV": 391498,
+      "TASA": 63.18
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 60,
+      "SEXO": 0,
+      "LN": 526288,
+      "SV": 317440,
+      "TASA": 60.32
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 60,
+      "SEXO": 1,
+      "LN": 601886,
+      "SV": 383011,
+      "TASA": 63.64
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 61,
+      "SEXO": 0,
+      "LN": 511498,
+      "SV": 311394,
+      "TASA": 60.88
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 61,
+      "SEXO": 1,
+      "LN": 586593,
+      "SV": 373731,
+      "TASA": 63.71
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 62,
+      "SEXO": 0,
+      "LN": 486197,
+      "SV": 300196,
+      "TASA": 61.74
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 62,
+      "SEXO": 1,
+      "LN": 555276,
+      "SV": 355368,
+      "TASA": 64.0
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 63,
+      "SEXO": 0,
+      "LN": 451076,
+      "SV": 280672,
+      "TASA": 62.22
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 63,
+      "SEXO": 1,
+      "LN": 516546,
+      "SV": 330155,
+      "TASA": 63.92
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 64,
+      "SEXO": 0,
+      "LN": 435258,
+      "SV": 274597,
+      "TASA": 63.09
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 64,
+      "SEXO": 1,
+      "LN": 498167,
+      "SV": 320881,
+      "TASA": 64.41
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 65,
+      "SEXO": 0,
+      "LN": 416146,
+      "SV": 268533,
+      "TASA": 64.53
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 65,
+      "SEXO": 1,
+      "LN": 477320,
+      "SV": 311458,
+      "TASA": 65.25
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 66,
+      "SEXO": 0,
+      "LN": 398541,
+      "SV": 259106,
+      "TASA": 65.01
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 66,
+      "SEXO": 1,
+      "LN": 458381,
+      "SV": 299505,
+      "TASA": 65.34
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 67,
+      "SEXO": 0,
+      "LN": 365629,
+      "SV": 238842,
+      "TASA": 65.32
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 67,
+      "SEXO": 1,
+      "LN": 419740,
+      "SV": 273810,
+      "TASA": 65.23
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 68,
+      "SEXO": 0,
+      "LN": 345507,
+      "SV": 228771,
+      "TASA": 66.21
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 68,
+      "SEXO": 1,
+      "LN": 397422,
+      "SV": 260673,
+      "TASA": 65.59
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 69,
+      "SEXO": 0,
+      "LN": 319789,
+      "SV": 214057,
+      "TASA": 66.94
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 69,
+      "SEXO": 1,
+      "LN": 366600,
+      "SV": 240854,
+      "TASA": 65.7
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 70,
+      "SEXO": 0,
+      "LN": 308568,
+      "SV": 207021,
+      "TASA": 67.09
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 70,
+      "SEXO": 1,
+      "LN": 358395,
+      "SV": 232844,
+      "TASA": 64.97
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 71,
+      "SEXO": 0,
+      "LN": 287587,
+      "SV": 191984,
+      "TASA": 66.76
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 71,
+      "SEXO": 1,
+      "LN": 333988,
+      "SV": 214545,
+      "TASA": 64.24
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 72,
+      "SEXO": 0,
+      "LN": 266651,
+      "SV": 176781,
+      "TASA": 66.3
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 72,
+      "SEXO": 1,
+      "LN": 310406,
+      "SV": 196930,
+      "TASA": 63.44
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 73,
+      "SEXO": 0,
+      "LN": 254085,
+      "SV": 167607,
+      "TASA": 65.96
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 73,
+      "SEXO": 1,
+      "LN": 295628,
+      "SV": 185379,
+      "TASA": 62.71
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 74,
+      "SEXO": 0,
+      "LN": 237730,
+      "SV": 155944,
+      "TASA": 65.6
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 74,
+      "SEXO": 1,
+      "LN": 278153,
+      "SV": 171981,
+      "TASA": 61.83
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 75,
+      "SEXO": 0,
+      "LN": 215311,
+      "SV": 139464,
+      "TASA": 64.77
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 75,
+      "SEXO": 1,
+      "LN": 257359,
+      "SV": 155650,
+      "TASA": 60.48
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 76,
+      "SEXO": 0,
+      "LN": 198557,
+      "SV": 127460,
+      "TASA": 64.19
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 76,
+      "SEXO": 1,
+      "LN": 236845,
+      "SV": 140417,
+      "TASA": 59.29
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 77,
+      "SEXO": 0,
+      "LN": 183666,
+      "SV": 116056,
+      "TASA": 63.19
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 77,
+      "SEXO": 1,
+      "LN": 219166,
+      "SV": 126648,
+      "TASA": 57.79
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 78,
+      "SEXO": 0,
+      "LN": 170376,
+      "SV": 106097,
+      "TASA": 62.27
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 78,
+      "SEXO": 1,
+      "LN": 208224,
+      "SV": 116885,
+      "TASA": 56.13
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 79,
+      "SEXO": 0,
+      "LN": 153286,
+      "SV": 93368,
+      "TASA": 60.91
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 79,
+      "SEXO": 1,
+      "LN": 186675,
+      "SV": 101440,
+      "TASA": 54.34
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 80,
+      "SEXO": 0,
+      "LN": 144262,
+      "SV": 85614,
+      "TASA": 59.35
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 80,
+      "SEXO": 1,
+      "LN": 181235,
+      "SV": 94392,
+      "TASA": 52.08
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 81,
+      "SEXO": 0,
+      "LN": 130062,
+      "SV": 74881,
+      "TASA": 57.57
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 81,
+      "SEXO": 1,
+      "LN": 163973,
+      "SV": 82066,
+      "TASA": 50.05
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 82,
+      "SEXO": 0,
+      "LN": 115995,
+      "SV": 64760,
+      "TASA": 55.83
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 82,
+      "SEXO": 1,
+      "LN": 147481,
+      "SV": 70661,
+      "TASA": 47.91
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 83,
+      "SEXO": 0,
+      "LN": 103792,
+      "SV": 55915,
+      "TASA": 53.87
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 83,
+      "SEXO": 1,
+      "LN": 133575,
+      "SV": 60668,
+      "TASA": 45.42
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 84,
+      "SEXO": 0,
+      "LN": 93612,
+      "SV": 48651,
+      "TASA": 51.97
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 84,
+      "SEXO": 1,
+      "LN": 121919,
+      "SV": 52554,
+      "TASA": 43.11
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 85,
+      "SEXO": 0,
+      "LN": 85882,
+      "SV": 42377,
+      "TASA": 49.34
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 85,
+      "SEXO": 1,
+      "LN": 115428,
+      "SV": 46892,
+      "TASA": 40.62
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 86,
+      "SEXO": 0,
+      "LN": 73882,
+      "SV": 34665,
+      "TASA": 46.92
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 86,
+      "SEXO": 1,
+      "LN": 100922,
+      "SV": 38796,
+      "TASA": 38.44
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 87,
+      "SEXO": 0,
+      "LN": 62626,
+      "SV": 27793,
+      "TASA": 44.38
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 87,
+      "SEXO": 1,
+      "LN": 86357,
+      "SV": 30819,
+      "TASA": 35.69
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 88,
+      "SEXO": 0,
+      "LN": 52198,
+      "SV": 21894,
+      "TASA": 41.94
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 88,
+      "SEXO": 1,
+      "LN": 73737,
+      "SV": 24502,
+      "TASA": 33.23
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 89,
+      "SEXO": 0,
+      "LN": 44191,
+      "SV": 17469,
+      "TASA": 39.53
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 89,
+      "SEXO": 1,
+      "LN": 62932,
+      "SV": 18908,
+      "TASA": 30.05
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 90,
+      "SEXO": 0,
+      "LN": 40492,
+      "SV": 14871,
+      "TASA": 36.73
+    },
+    {
+      "AELEC": 2021,
+      "EDAD": 90,
+      "SEXO": 1,
+      "LN": 61233,
+      "SV": 17018,
+      "TASA": 27.79
+    }
+  ],
+  "edad_exacta_2018": [
+    {
+      "AELEC": 2018,
+      "EDAD": 18,
+      "SEXO": 0,
+      "LN": 764581,
+      "SV": 443810,
+      "TASA": 58.05
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 18,
+      "SEXO": 1,
+      "LN": 758461,
+      "SV": 476685,
+      "TASA": 62.85
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 19,
+      "SEXO": 0,
+      "LN": 999920,
+      "SV": 503149,
+      "TASA": 50.32
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 19,
+      "SEXO": 1,
+      "LN": 1010769,
+      "SV": 570797,
+      "TASA": 56.47
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 20,
+      "SEXO": 0,
+      "LN": 1061553,
+      "SV": 503024,
+      "TASA": 47.39
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 20,
+      "SEXO": 1,
+      "LN": 1067219,
+      "SV": 580932,
+      "TASA": 54.43
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 21,
+      "SEXO": 0,
+      "LN": 1067989,
+      "SV": 489635,
+      "TASA": 45.85
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 21,
+      "SEXO": 1,
+      "LN": 1071681,
+      "SV": 574018,
+      "TASA": 53.56
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 22,
+      "SEXO": 0,
+      "LN": 1106902,
+      "SV": 491280,
+      "TASA": 44.38
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 22,
+      "SEXO": 1,
+      "LN": 1110382,
+      "SV": 588143,
+      "TASA": 52.97
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 23,
+      "SEXO": 0,
+      "LN": 1137692,
+      "SV": 497949,
+      "TASA": 43.77
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 23,
+      "SEXO": 1,
+      "LN": 1142911,
+      "SV": 604747,
+      "TASA": 52.91
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 24,
+      "SEXO": 0,
+      "LN": 1134685,
+      "SV": 495524,
+      "TASA": 43.67
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 24,
+      "SEXO": 1,
+      "LN": 1141591,
+      "SV": 607798,
+      "TASA": 53.24
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 25,
+      "SEXO": 0,
+      "LN": 1135406,
+      "SV": 495706,
+      "TASA": 43.66
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 25,
+      "SEXO": 1,
+      "LN": 1145257,
+      "SV": 614083,
+      "TASA": 53.62
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 26,
+      "SEXO": 0,
+      "LN": 1127240,
+      "SV": 493560,
+      "TASA": 43.78
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 26,
+      "SEXO": 1,
+      "LN": 1140387,
+      "SV": 614976,
+      "TASA": 53.93
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 27,
+      "SEXO": 0,
+      "LN": 1101114,
+      "SV": 484977,
+      "TASA": 44.04
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 27,
+      "SEXO": 1,
+      "LN": 1119419,
+      "SV": 607948,
+      "TASA": 54.31
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 28,
+      "SEXO": 0,
+      "LN": 1084817,
+      "SV": 475890,
+      "TASA": 43.87
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 28,
+      "SEXO": 1,
+      "LN": 1108638,
+      "SV": 605753,
+      "TASA": 54.64
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 29,
+      "SEXO": 0,
+      "LN": 1035071,
+      "SV": 462638,
+      "TASA": 44.7
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 29,
+      "SEXO": 1,
+      "LN": 1063847,
+      "SV": 590527,
+      "TASA": 55.51
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 30,
+      "SEXO": 0,
+      "LN": 986500,
+      "SV": 459459,
+      "TASA": 46.57
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 30,
+      "SEXO": 1,
+      "LN": 1024291,
+      "SV": 589581,
+      "TASA": 57.56
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 31,
+      "SEXO": 0,
+      "LN": 965678,
+      "SV": 459463,
+      "TASA": 47.58
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 31,
+      "SEXO": 1,
+      "LN": 1015027,
+      "SV": 597983,
+      "TASA": 58.91
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 32,
+      "SEXO": 0,
+      "LN": 938214,
+      "SV": 455740,
+      "TASA": 48.58
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 32,
+      "SEXO": 1,
+      "LN": 989421,
+      "SV": 591569,
+      "TASA": 59.79
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 33,
+      "SEXO": 0,
+      "LN": 930994,
+      "SV": 459914,
+      "TASA": 49.4
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 33,
+      "SEXO": 1,
+      "LN": 983396,
+      "SV": 594929,
+      "TASA": 60.5
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 34,
+      "SEXO": 0,
+      "LN": 920756,
+      "SV": 460349,
+      "TASA": 50.0
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 34,
+      "SEXO": 1,
+      "LN": 976389,
+      "SV": 598245,
+      "TASA": 61.27
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 35,
+      "SEXO": 0,
+      "LN": 924444,
+      "SV": 467674,
+      "TASA": 50.59
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 35,
+      "SEXO": 1,
+      "LN": 982495,
+      "SV": 606886,
+      "TASA": 61.77
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 36,
+      "SEXO": 0,
+      "LN": 899615,
+      "SV": 462834,
+      "TASA": 51.45
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 36,
+      "SEXO": 1,
+      "LN": 960675,
+      "SV": 599218,
+      "TASA": 62.37
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 37,
+      "SEXO": 0,
+      "LN": 878478,
+      "SV": 457890,
+      "TASA": 52.12
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 37,
+      "SEXO": 1,
+      "LN": 938531,
+      "SV": 591414,
+      "TASA": 63.01
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 38,
+      "SEXO": 0,
+      "LN": 871142,
+      "SV": 458842,
+      "TASA": 52.67
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 38,
+      "SEXO": 1,
+      "LN": 934247,
+      "SV": 593455,
+      "TASA": 63.52
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 39,
+      "SEXO": 0,
+      "LN": 854261,
+      "SV": 455871,
+      "TASA": 53.36
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 39,
+      "SEXO": 1,
+      "LN": 921151,
+      "SV": 590106,
+      "TASA": 64.06
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 40,
+      "SEXO": 0,
+      "LN": 854380,
+      "SV": 462366,
+      "TASA": 54.12
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 40,
+      "SEXO": 1,
+      "LN": 926877,
+      "SV": 597800,
+      "TASA": 64.5
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 41,
+      "SEXO": 0,
+      "LN": 854099,
+      "SV": 467757,
+      "TASA": 54.77
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 41,
+      "SEXO": 1,
+      "LN": 924053,
+      "SV": 601418,
+      "TASA": 65.08
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 42,
+      "SEXO": 0,
+      "LN": 848093,
+      "SV": 470480,
+      "TASA": 55.48
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 42,
+      "SEXO": 1,
+      "LN": 917050,
+      "SV": 600221,
+      "TASA": 65.45
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 43,
+      "SEXO": 0,
+      "LN": 850512,
+      "SV": 478923,
+      "TASA": 56.31
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 43,
+      "SEXO": 1,
+      "LN": 920813,
+      "SV": 606343,
+      "TASA": 65.85
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 44,
+      "SEXO": 0,
+      "LN": 849658,
+      "SV": 485294,
+      "TASA": 57.12
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 44,
+      "SEXO": 1,
+      "LN": 918548,
+      "SV": 608579,
+      "TASA": 66.25
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 45,
+      "SEXO": 0,
+      "LN": 832693,
+      "SV": 480403,
+      "TASA": 57.69
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 45,
+      "SEXO": 1,
+      "LN": 906609,
+      "SV": 603705,
+      "TASA": 66.59
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 46,
+      "SEXO": 0,
+      "LN": 805477,
+      "SV": 469947,
+      "TASA": 58.34
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 46,
+      "SEXO": 1,
+      "LN": 877371,
+      "SV": 587110,
+      "TASA": 66.92
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 47,
+      "SEXO": 0,
+      "LN": 768171,
+      "SV": 451342,
+      "TASA": 58.76
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 47,
+      "SEXO": 1,
+      "LN": 839060,
+      "SV": 563217,
+      "TASA": 67.12
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 48,
+      "SEXO": 0,
+      "LN": 735089,
+      "SV": 434302,
+      "TASA": 59.08
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 48,
+      "SEXO": 1,
+      "LN": 807771,
+      "SV": 544634,
+      "TASA": 67.42
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 49,
+      "SEXO": 0,
+      "LN": 713122,
+      "SV": 425124,
+      "TASA": 59.61
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 49,
+      "SEXO": 1,
+      "LN": 786050,
+      "SV": 531552,
+      "TASA": 67.62
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 50,
+      "SEXO": 0,
+      "LN": 694882,
+      "SV": 417113,
+      "TASA": 60.03
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 50,
+      "SEXO": 1,
+      "LN": 770404,
+      "SV": 522803,
+      "TASA": 67.86
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 51,
+      "SEXO": 0,
+      "LN": 666199,
+      "SV": 403173,
+      "TASA": 60.52
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 51,
+      "SEXO": 1,
+      "LN": 741157,
+      "SV": 505611,
+      "TASA": 68.22
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 52,
+      "SEXO": 0,
+      "LN": 648522,
+      "SV": 396417,
+      "TASA": 61.13
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 52,
+      "SEXO": 1,
+      "LN": 725236,
+      "SV": 497231,
+      "TASA": 68.56
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 53,
+      "SEXO": 0,
+      "LN": 631925,
+      "SV": 389381,
+      "TASA": 61.62
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 53,
+      "SEXO": 1,
+      "LN": 708437,
+      "SV": 485544,
+      "TASA": 68.54
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 54,
+      "SEXO": 0,
+      "LN": 612839,
+      "SV": 382096,
+      "TASA": 62.35
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 54,
+      "SEXO": 1,
+      "LN": 687604,
+      "SV": 473979,
+      "TASA": 68.93
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 55,
+      "SEXO": 0,
+      "LN": 584987,
+      "SV": 367112,
+      "TASA": 62.76
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 55,
+      "SEXO": 1,
+      "LN": 659253,
+      "SV": 455261,
+      "TASA": 69.06
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 56,
+      "SEXO": 0,
+      "LN": 562647,
+      "SV": 355902,
+      "TASA": 63.25
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 56,
+      "SEXO": 1,
+      "LN": 633487,
+      "SV": 438461,
+      "TASA": 69.21
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 57,
+      "SEXO": 0,
+      "LN": 542532,
+      "SV": 346084,
+      "TASA": 63.79
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 57,
+      "SEXO": 1,
+      "LN": 614835,
+      "SV": 424884,
+      "TASA": 69.11
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 58,
+      "SEXO": 0,
+      "LN": 529804,
+      "SV": 339486,
+      "TASA": 64.08
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 58,
+      "SEXO": 1,
+      "LN": 602114,
+      "SV": 416512,
+      "TASA": 69.17
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 59,
+      "SEXO": 0,
+      "LN": 504394,
+      "SV": 326684,
+      "TASA": 64.77
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 59,
+      "SEXO": 1,
+      "LN": 570857,
+      "SV": 394982,
+      "TASA": 69.19
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 60,
+      "SEXO": 0,
+      "LN": 467051,
+      "SV": 307243,
+      "TASA": 65.78
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 60,
+      "SEXO": 1,
+      "LN": 529425,
+      "SV": 367032,
+      "TASA": 69.33
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 61,
+      "SEXO": 0,
+      "LN": 455582,
+      "SV": 301686,
+      "TASA": 66.22
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 61,
+      "SEXO": 1,
+      "LN": 515902,
+      "SV": 357527,
+      "TASA": 69.3
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 62,
+      "SEXO": 0,
+      "LN": 434487,
+      "SV": 289687,
+      "TASA": 66.67
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 62,
+      "SEXO": 1,
+      "LN": 493223,
+      "SV": 340666,
+      "TASA": 69.07
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 63,
+      "SEXO": 0,
+      "LN": 420586,
+      "SV": 281884,
+      "TASA": 67.02
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 63,
+      "SEXO": 1,
+      "LN": 477898,
+      "SV": 330602,
+      "TASA": 69.18
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 64,
+      "SEXO": 0,
+      "LN": 386460,
+      "SV": 260119,
+      "TASA": 67.31
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 64,
+      "SEXO": 1,
+      "LN": 437246,
+      "SV": 301450,
+      "TASA": 68.94
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 65,
+      "SEXO": 0,
+      "LN": 365632,
+      "SV": 247344,
+      "TASA": 67.65
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 65,
+      "SEXO": 1,
+      "LN": 414842,
+      "SV": 286327,
+      "TASA": 69.02
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 66,
+      "SEXO": 0,
+      "LN": 339675,
+      "SV": 230797,
+      "TASA": 67.95
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 66,
+      "SEXO": 1,
+      "LN": 383327,
+      "SV": 264058,
+      "TASA": 68.89
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 67,
+      "SEXO": 0,
+      "LN": 330402,
+      "SV": 225169,
+      "TASA": 68.15
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 67,
+      "SEXO": 1,
+      "LN": 376008,
+      "SV": 258199,
+      "TASA": 68.67
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 68,
+      "SEXO": 0,
+      "LN": 312186,
+      "SV": 212974,
+      "TASA": 68.22
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 68,
+      "SEXO": 1,
+      "LN": 354188,
+      "SV": 242477,
+      "TASA": 68.46
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 69,
+      "SEXO": 0,
+      "LN": 290917,
+      "SV": 198762,
+      "TASA": 68.32
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 69,
+      "SEXO": 1,
+      "LN": 330638,
+      "SV": 225607,
+      "TASA": 68.23
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 70,
+      "SEXO": 0,
+      "LN": 278800,
+      "SV": 190685,
+      "TASA": 68.39
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 70,
+      "SEXO": 1,
+      "LN": 316068,
+      "SV": 214258,
+      "TASA": 67.79
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 71,
+      "SEXO": 0,
+      "LN": 265241,
+      "SV": 181458,
+      "TASA": 68.41
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 71,
+      "SEXO": 1,
+      "LN": 301505,
+      "SV": 203098,
+      "TASA": 67.36
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 72,
+      "SEXO": 0,
+      "LN": 241259,
+      "SV": 163919,
+      "TASA": 67.94
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 72,
+      "SEXO": 1,
+      "LN": 279355,
+      "SV": 185795,
+      "TASA": 66.51
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 73,
+      "SEXO": 0,
+      "LN": 225177,
+      "SV": 152933,
+      "TASA": 67.92
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 73,
+      "SEXO": 1,
+      "LN": 260125,
+      "SV": 170981,
+      "TASA": 65.73
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 74,
+      "SEXO": 0,
+      "LN": 210619,
+      "SV": 141685,
+      "TASA": 67.27
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 74,
+      "SEXO": 1,
+      "LN": 242308,
+      "SV": 156943,
+      "TASA": 64.77
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 75,
+      "SEXO": 0,
+      "LN": 198272,
+      "SV": 131970,
+      "TASA": 66.56
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 75,
+      "SEXO": 1,
+      "LN": 232157,
+      "SV": 147487,
+      "TASA": 63.53
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 76,
+      "SEXO": 0,
+      "LN": 181155,
+      "SV": 119245,
+      "TASA": 65.82
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 76,
+      "SEXO": 1,
+      "LN": 211501,
+      "SV": 132164,
+      "TASA": 62.49
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 77,
+      "SEXO": 0,
+      "LN": 171431,
+      "SV": 111274,
+      "TASA": 64.91
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 77,
+      "SEXO": 1,
+      "LN": 206097,
+      "SV": 125203,
+      "TASA": 60.75
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 78,
+      "SEXO": 0,
+      "LN": 159468,
+      "SV": 101570,
+      "TASA": 63.69
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 78,
+      "SEXO": 1,
+      "LN": 191917,
+      "SV": 113719,
+      "TASA": 59.25
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 79,
+      "SEXO": 0,
+      "LN": 143658,
+      "SV": 90179,
+      "TASA": 62.77
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 79,
+      "SEXO": 1,
+      "LN": 172876,
+      "SV": 99357,
+      "TASA": 57.47
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 80,
+      "SEXO": 0,
+      "LN": 131300,
+      "SV": 80439,
+      "TASA": 61.26
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 80,
+      "SEXO": 1,
+      "LN": 160355,
+      "SV": 88754,
+      "TASA": 55.35
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 81,
+      "SEXO": 0,
+      "LN": 121221,
+      "SV": 72273,
+      "TASA": 59.62
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 81,
+      "SEXO": 1,
+      "LN": 148705,
+      "SV": 79421,
+      "TASA": 53.41
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 82,
+      "SEXO": 0,
+      "LN": 113959,
+      "SV": 65735,
+      "TASA": 57.68
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 82,
+      "SEXO": 1,
+      "LN": 143948,
+      "SV": 73134,
+      "TASA": 50.81
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 83,
+      "SEXO": 0,
+      "LN": 101049,
+      "SV": 56763,
+      "TASA": 56.17
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 83,
+      "SEXO": 1,
+      "LN": 129652,
+      "SV": 63576,
+      "TASA": 49.04
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 84,
+      "SEXO": 0,
+      "LN": 87385,
+      "SV": 47117,
+      "TASA": 53.92
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 84,
+      "SEXO": 1,
+      "LN": 112053,
+      "SV": 52123,
+      "TASA": 46.52
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 85,
+      "SEXO": 0,
+      "LN": 75866,
+      "SV": 39122,
+      "TASA": 51.57
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 85,
+      "SEXO": 1,
+      "LN": 99406,
+      "SV": 43361,
+      "TASA": 43.62
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 86,
+      "SEXO": 0,
+      "LN": 65999,
+      "SV": 32656,
+      "TASA": 49.48
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 86,
+      "SEXO": 1,
+      "LN": 86476,
+      "SV": 35332,
+      "TASA": 40.86
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 87,
+      "SEXO": 0,
+      "LN": 61854,
+      "SV": 28996,
+      "TASA": 46.88
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 87,
+      "SEXO": 1,
+      "LN": 86151,
+      "SV": 32950,
+      "TASA": 38.25
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 88,
+      "SEXO": 0,
+      "LN": 55668,
+      "SV": 24682,
+      "TASA": 44.34
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 88,
+      "SEXO": 1,
+      "LN": 76917,
+      "SV": 27316,
+      "TASA": 35.51
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 89,
+      "SEXO": 0,
+      "LN": 39456,
+      "SV": 16520,
+      "TASA": 41.87
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 89,
+      "SEXO": 1,
+      "LN": 54726,
+      "SV": 18244,
+      "TASA": 33.34
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 90,
+      "SEXO": 0,
+      "LN": 33371,
+      "SV": 12856,
+      "TASA": 38.52
+    },
+    {
+      "AELEC": 2018,
+      "EDAD": 90,
+      "SEXO": 1,
+      "LN": 47551,
+      "SV": 14589,
+      "TASA": 30.68
+    }
+  ],
+  "tiposec_sexo": [
+    {
+      "AELEC": 2009,
+      "TIPOSEC": "M",
+      "SEXO": 0,
+      "LN": 4138719,
+      "SV": 1656045,
+      "TASA": 40.01
+    },
+    {
+      "AELEC": 2009,
+      "TIPOSEC": "M",
+      "SEXO": 1,
+      "LN": 4431403,
+      "SV": 2079207,
+      "TASA": 46.92
+    },
+    {
+      "AELEC": 2009,
+      "TIPOSEC": "R",
+      "SEXO": 0,
+      "LN": 7403614,
+      "SV": 3183038,
+      "TASA": 42.99
+    },
+    {
+      "AELEC": 2009,
+      "TIPOSEC": "R",
+      "SEXO": 1,
+      "LN": 7644564,
+      "SV": 3864138,
+      "TASA": 50.55
+    },
+    {
+      "AELEC": 2009,
+      "TIPOSEC": "U",
+      "SEXO": 0,
+      "LN": 25811573,
+      "SV": 9934364,
+      "TASA": 38.49
+    },
+    {
+      "AELEC": 2009,
+      "TIPOSEC": "U",
+      "SEXO": 1,
+      "LN": 28051958,
+      "SV": 12600182,
+      "TASA": 44.92
+    },
+    {
+      "AELEC": 2012,
+      "TIPOSEC": "M",
+      "SEXO": 0,
+      "LN": 4485568,
+      "SV": 2544542,
+      "TASA": 56.73
+    },
+    {
+      "AELEC": 2012,
+      "TIPOSEC": "M",
+      "SEXO": 1,
+      "LN": 4830352,
+      "SV": 3152853,
+      "TASA": 65.27
+    },
+    {
+      "AELEC": 2012,
+      "TIPOSEC": "R",
+      "SEXO": 0,
+      "LN": 6805219,
+      "SV": 4051617,
+      "TASA": 59.54
+    },
+    {
+      "AELEC": 2012,
+      "TIPOSEC": "R",
+      "SEXO": 1,
+      "LN": 7097962,
+      "SV": 4848102,
+      "TASA": 68.3
+    },
+    {
+      "AELEC": 2012,
+      "TIPOSEC": "U",
+      "SEXO": 0,
+      "LN": 25530517,
+      "SV": 14630383,
+      "TASA": 57.31
+    },
+    {
+      "AELEC": 2012,
+      "TIPOSEC": "U",
+      "SEXO": 1,
+      "LN": 27741344,
+      "SV": 18155657,
+      "TASA": 65.45
+    },
+    {
+      "AELEC": 2015,
+      "TIPOSEC": "M",
+      "SEXO": 0,
+      "LN": 5037794,
+      "SV": 2075634,
+      "TASA": 41.2
+    },
+    {
+      "AELEC": 2015,
+      "TIPOSEC": "M",
+      "SEXO": 1,
+      "LN": 5413555,
+      "SV": 2664450,
+      "TASA": 49.22
+    },
+    {
+      "AELEC": 2015,
+      "TIPOSEC": "R",
+      "SEXO": 0,
+      "LN": 7351748,
+      "SV": 3443038,
+      "TASA": 46.83
+    },
+    {
+      "AELEC": 2015,
+      "TIPOSEC": "R",
+      "SEXO": 1,
+      "LN": 7638207,
+      "SV": 4258852,
+      "TASA": 55.76
+    },
+    {
+      "AELEC": 2015,
+      "TIPOSEC": "U",
+      "SEXO": 0,
+      "LN": 27830244,
+      "SV": 10695199,
+      "TASA": 38.43
+    },
+    {
+      "AELEC": 2015,
+      "TIPOSEC": "U",
+      "SEXO": 1,
+      "LN": 30291914,
+      "SV": 13789439,
+      "TASA": 45.52
+    },
+    {
+      "AELEC": 2018,
+      "TIPOSEC": "M",
+      "SEXO": 0,
+      "LN": 5866594,
+      "SV": 3071369,
+      "TASA": 52.35
+    },
+    {
+      "AELEC": 2018,
+      "TIPOSEC": "M",
+      "SEXO": 1,
+      "LN": 6283334,
+      "SV": 3803913,
+      "TASA": 60.54
+    },
+    {
+      "AELEC": 2018,
+      "TIPOSEC": "R",
+      "SEXO": 0,
+      "LN": 7669025,
+      "SV": 4183749,
+      "TASA": 54.55
+    },
+    {
+      "AELEC": 2018,
+      "TIPOSEC": "R",
+      "SEXO": 1,
+      "LN": 7978035,
+      "SV": 5062450,
+      "TASA": 63.45
+    },
+    {
+      "AELEC": 2018,
+      "TIPOSEC": "U",
+      "SEXO": 0,
+      "LN": 29378226,
+      "SV": 15985738,
+      "TASA": 54.41
+    },
+    {
+      "AELEC": 2018,
+      "TIPOSEC": "U",
+      "SEXO": 1,
+      "LN": 31948783,
+      "SV": 19677180,
+      "TASA": 61.59
+    },
+    {
+      "AELEC": 2021,
+      "TIPOSEC": "M",
+      "SEXO": 0,
+      "LN": 6157627,
+      "SV": 2804372,
+      "TASA": 45.54
+    },
+    {
+      "AELEC": 2021,
+      "TIPOSEC": "M",
+      "SEXO": 1,
+      "LN": 6588127,
+      "SV": 3552721,
+      "TASA": 53.93
+    },
+    {
+      "AELEC": 2021,
+      "TIPOSEC": "R",
+      "SEXO": 0,
+      "LN": 8023590,
+      "SV": 4043694,
+      "TASA": 50.4
+    },
+    {
+      "AELEC": 2021,
+      "TIPOSEC": "R",
+      "SEXO": 1,
+      "LN": 8343262,
+      "SV": 4998350,
+      "TASA": 59.91
+    },
+    {
+      "AELEC": 2021,
+      "TIPOSEC": "U",
+      "SEXO": 0,
+      "LN": 30886330,
+      "SV": 13734961,
+      "TASA": 44.47
+    },
+    {
+      "AELEC": 2021,
+      "TIPOSEC": "U",
+      "SEXO": 1,
+      "LN": 33533197,
+      "SV": 17255091,
+      "TASA": 51.46
+    },
+    {
+      "AELEC": 2024,
+      "TIPOSEC": "M",
+      "SEXO": 0,
+      "LN": 6174599,
+      "SV": 3040214,
+      "TASA": 49.24
+    },
+    {
+      "AELEC": 2024,
+      "TIPOSEC": "M",
+      "SEXO": 1,
+      "LN": 6647861,
+      "SV": 3910875,
+      "TASA": 58.83
+    },
+    {
+      "AELEC": 2024,
+      "TIPOSEC": "R",
+      "SEXO": 0,
+      "LN": 8383603,
+      "SV": 4188986,
+      "TASA": 49.97
+    },
+    {
+      "AELEC": 2024,
+      "TIPOSEC": "R",
+      "SEXO": 1,
+      "LN": 8832918,
+      "SV": 5399210,
+      "TASA": 61.13
+    },
+    {
+      "AELEC": 2024,
+      "TIPOSEC": "U",
+      "SEXO": 0,
+      "LN": 32668229,
+      "SV": 16956132,
+      "TASA": 51.9
+    },
+    {
+      "AELEC": 2024,
+      "TIPOSEC": "U",
+      "SEXO": 1,
+      "LN": 35623033,
+      "SV": 21403732,
+      "TASA": 60.08
+    }
+  ]
+}

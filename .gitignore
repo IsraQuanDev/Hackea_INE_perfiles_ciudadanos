@@ -1,0 +1,18 @@
+# Excluir archivos CSV crudos masivos (>3.5 GB) que se descargan de la Plataforma CCPC del INE
+DatosAbiertos_DECEyEC_ConteosCensales2009/
+DatosAbiertos_DECEyEC_ConteosCensales2012/
+DatosAbiertos_DECEyEC_ConteosCensales2015/
+DatosAbiertos_DECEyEC_ConteosCensales2018/
+DatosAbiertos_DECEyEC_ConteosCensales2021/
+DatosAbiertos_DECEyEC_ConteosCensales2024/
+DatosAbiertos_DECEyEC_ConteosCensales_VotoAnticipado2024/
+DatosAbiertos_DECEyEC_ConteosCensales_PrisionPreventiva2024/
+
+# Entornos virtuales y cachés de Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
